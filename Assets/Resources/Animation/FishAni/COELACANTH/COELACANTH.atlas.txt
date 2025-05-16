@@ -1,0 +1,139 @@
+
+COELACANTH.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: false
+  xy: 179, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 241, 36
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 206, 34
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 276, 38
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+q5
+  rotate: false
+  xy: 310, 41
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 12
+  size: 175, 50
+  orig: 175, 50
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 12, 7
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yh
+  rotate: false
+  xy: 2, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: false
+  xy: 206, 27
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+yp
+  rotate: true
+  xy: 365, 47
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+yp2
+  rotate: true
+  xy: 499, 47
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+yp2.1
+  rotate: true
+  xy: 428, 46
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+yp2.2
+  rotate: true
+  xy: 388, 46
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+yp2.3
+  rotate: false
+  xy: 447, 45
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yp2.4
+  rotate: true
+  xy: 408, 46
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+yp3
+  rotate: false
+  xy: 179, 12
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+yp4
+  rotate: false
+  xy: 483, 47
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+yq
+  rotate: false
+  xy: 466, 47
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yyy
+  rotate: true
+  xy: 339, 43
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1

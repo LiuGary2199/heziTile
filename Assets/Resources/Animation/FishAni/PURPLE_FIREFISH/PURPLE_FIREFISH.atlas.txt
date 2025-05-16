@@ -1,0 +1,118 @@
+
+PURPLE_FIREFISH.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 138, 26
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+chujiao01
+  rotate: true
+  xy: 14, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+chujiao02
+  rotate: false
+  xy: 2, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: true
+  xy: 120, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 2, 11
+  size: 89, 17
+  orig: 89, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 30
+  size: 134, 32
+  orig: 134, 32
+  offset: 0, 0
+  index: -1
+xiaqi0101
+  rotate: false
+  xy: 120, 8
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+xiaqi0102
+  rotate: false
+  xy: 179, 38
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 138, 48
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 120, 14
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 162, 27
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 93, 5
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 207, 48
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 227, 51
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 162, 31
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ziyanqiu
+  rotate: true
+  xy: 25, 3
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1

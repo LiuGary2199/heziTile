@@ -1,0 +1,167 @@
+
+ROCK_BEAUTY.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyanzhu
+  rotate: true
+  xy: 2, 12
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+baiyanzhu_2
+  rotate: false
+  xy: 283, 58
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+ceqi
+  rotate: false
+  xy: 305, 90
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ceqi_2
+  rotate: false
+  xy: 339, 90
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+heiyanqu
+  rotate: true
+  xy: 373, 90
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+heiyanqu_2
+  rotate: false
+  xy: 335, 65
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+huxu
+  rotate: false
+  xy: 2, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 143, 35
+  size: 138, 91
+  orig: 138, 91
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 2, 34
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 305, 73
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+xiaqi_2
+  rotate: false
+  xy: 72, 15
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+yangaogaung
+  rotate: true
+  xy: 507, 122
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yangaogaung_2
+  rotate: true
+  xy: 507, 122
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 404, 98
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+yankuang_2
+  rotate: false
+  xy: 373, 97
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 465, 107
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+yanpi01_2
+  rotate: false
+  xy: 434, 104
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 305, 54
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+yanpi02_2
+  rotate: true
+  xy: 283, 29
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 305, 31
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+yanpi03_2
+  rotate: false
+  xy: 119, 10
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+ziyanqiu
+  rotate: false
+  xy: 351, 78
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+ziyanqiu_2
+  rotate: false
+  xy: 496, 116
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+DRAGON_FISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 246, 84
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 337, 88
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+jiao1yy
+  rotate: false
+  xy: 2, 6
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 32, 11
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 304, 65
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+qi1yy
+  rotate: false
+  xy: 169, 31
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 246, 52
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+qi2yy
+  rotate: false
+  xy: 382, 97
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+qi3
+  rotate: false
+  xy: 430, 110
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 31
+  size: 165, 95
+  orig: 165, 95
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 32, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 169, 48
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 278, 59
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 62, 15
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 406, 105
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

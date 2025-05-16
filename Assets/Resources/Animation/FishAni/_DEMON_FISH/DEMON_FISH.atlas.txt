@@ -1,0 +1,90 @@
+
+DEMON_FISH.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 197, 218
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 2, 29
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 72, 58
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 127
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: true
+  xy: 35, 13
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 108, 84
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 2, 2
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 72, 26
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: true
+  xy: 138, 92
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 140, 160
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+yuqiyy
+  rotate: false
+  xy: 140, 125
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+yuwei
+  rotate: false
+  xy: 140, 203
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1

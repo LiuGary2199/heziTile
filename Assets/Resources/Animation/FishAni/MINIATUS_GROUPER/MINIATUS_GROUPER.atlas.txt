@@ -1,0 +1,104 @@
+
+MINIATUS_GROUPER.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 318, 34
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: false
+  xy: 171, 6
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+houyan
+  rotate: false
+  xy: 404, 41
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 171, 40
+  size: 98, 21
+  orig: 98, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 6
+  size: 167, 55
+  orig: 167, 55
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 271, 47
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 171, 13
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 428, 44
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 2, 2
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 351, 34
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 379, 40
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: true
+  xy: 255, 20
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 448, 44
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+zongyanqiu
+  rotate: false
+  xy: 468, 52
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1

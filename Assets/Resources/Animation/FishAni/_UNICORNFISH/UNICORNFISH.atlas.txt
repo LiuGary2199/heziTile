@@ -1,0 +1,90 @@
+
+UNICORNFISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 227, 31
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: false
+  xy: 200, 66
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+qi01yy
+  rotate: false
+  xy: 200, 92
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: false
+  xy: 103, 17
+  size: 97, 29
+  orig: 97, 29
+  offset: 0, 0
+  index: -1
+qi03
+  rotate: false
+  xy: 2, 14
+  size: 99, 32
+  orig: 99, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 48
+  size: 196, 71
+  orig: 196, 71
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 202, 34
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 202, 14
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 233, 94
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 227, 40
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 232, 67
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

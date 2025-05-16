@@ -1,0 +1,132 @@
+
+CARNATION_FISH.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 100, 6
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+bq
+  rotate: true
+  xy: 626, 37
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+cq1
+  rotate: false
+  xy: 590, 39
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+cq1y
+  rotate: false
+  xy: 521, 2
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+fq
+  rotate: false
+  xy: 590, 17
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 279, 17
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 447, 8
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 2, 6
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 366, 17
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+h5
+  rotate: true
+  xy: 521, 16
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+hl
+  rotate: false
+  xy: 187, 7
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 187, 12
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+tk
+  rotate: false
+  xy: 746, 56
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+tk2
+  rotate: false
+  xy: 545, 5
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+yk
+  rotate: true
+  xy: 659, 39
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+yp1
+  rotate: false
+  xy: 708, 47
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+yp2
+  rotate: false
+  xy: 690, 44
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+yq
+  rotate: true
+  xy: 727, 48
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

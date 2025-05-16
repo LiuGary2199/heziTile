@@ -1,0 +1,97 @@
+
+CHEVRON_TANG.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 198, 64
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+heitongkong
+  rotate: false
+  xy: 140, 45
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+lanyanzhu
+  rotate: false
+  xy: 2, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+sahngqi
+  rotate: false
+  xy: 284, 129
+  size: 185, 125
+  orig: 185, 125
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 121
+  size: 280, 133
+  orig: 280, 133
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 2, 23
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 2, 45
+  size: 136, 74
+  orig: 136, 74
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 252, 82
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 471, 147
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 140, 60
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 471, 154
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 471, 218
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 471, 180
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1

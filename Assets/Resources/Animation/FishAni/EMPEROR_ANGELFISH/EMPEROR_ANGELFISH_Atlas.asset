@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94df42ee1e6e1cf4ba2f82c9bed02197, type: 3}
+  m_Name: EMPEROR_ANGELFISH_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 3b6bbe564cb4ca14a936a45f3fe0aa39, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 8725870c9b942af4b8b50ca49a921104, type: 2}

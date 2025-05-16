@@ -1,0 +1,90 @@
+
+EYEBALL_SPIRIT.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 152, 54
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 230, 77
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 147, 34
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 75, 5
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 207, 65
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: false
+  xy: 131, 4
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+honhyanqiu
+  rotate: true
+  xy: 147, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+xiayanpi
+  rotate: false
+  xy: 75, 25
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 2, 54
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 6
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 152, 75
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 74, 61
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1

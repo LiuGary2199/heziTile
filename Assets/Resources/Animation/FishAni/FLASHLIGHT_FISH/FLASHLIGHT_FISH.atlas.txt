@@ -1,0 +1,111 @@
+
+FLASHLIGHT_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 2, 10
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+fuqi01
+  rotate: true
+  xy: 172, 43
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+fuqi02
+  rotate: false
+  xy: 134, 17
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+houqi
+  rotate: false
+  xy: 172, 98
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 47
+  size: 168, 78
+  orig: 168, 78
+  offset: 0, 0
+  index: -1
+tongkongda
+  rotate: false
+  xy: 227, 85
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+tongkongxiao
+  rotate: true
+  xy: 2, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 101, 17
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+yanjingguang
+  rotate: false
+  xy: 249, 121
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 216, 100
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: true
+  xy: 193, 16
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 205, 71
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: true
+  xy: 165, 17
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 66, 14
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+yuqi_yz
+  rotate: false
+  xy: 172, 64
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1

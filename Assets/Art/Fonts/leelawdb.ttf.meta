@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5abadf8779e2cd4195caeb72810f0ed
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Leelawadee
+  fontNames:
+  - Leelawadee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 56a25460408120b40b09df8f6473a21e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

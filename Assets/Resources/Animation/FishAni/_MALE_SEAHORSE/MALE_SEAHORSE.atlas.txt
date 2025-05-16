@@ -1,0 +1,118 @@
+
+MALE_SEAHORSE.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 75, 92
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+heitongkong
+  rotate: true
+  xy: 102, 92
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+lamyanqiu
+  rotate: false
+  xy: 90, 19
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shangqi01
+  rotate: false
+  xy: 109, 65
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+shangqi02
+  rotate: false
+  xy: 95, 66
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shangqi03
+  rotate: false
+  xy: 75, 29
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+shangqi04
+  rotate: false
+  xy: 75, 47
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+shangqi05
+  rotate: true
+  xy: 75, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 71, 119
+  orig: 71, 119
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 102, 98
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 95, 77
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 124, 93
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 75, 70
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 109, 73
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 109, 84
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 75, 13
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1

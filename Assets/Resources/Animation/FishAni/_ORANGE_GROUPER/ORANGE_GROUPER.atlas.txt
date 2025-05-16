@@ -1,0 +1,90 @@
+
+ORANGE_GROUPER.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuqi
+  rotate: false
+  xy: 205, 41
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+fuqiyy
+  rotate: false
+  xy: 166, 36
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+sheti
+  rotate: false
+  xy: 2, 54
+  size: 162, 68
+  orig: 162, 68
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: true
+  xy: 96, 20
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 237, 26
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 166, 67
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 41, 7
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 149, 35
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 237, 46
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yuqi1
+  rotate: false
+  xy: 2, 20
+  size: 92, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: false
+  xy: 96, 28
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+yuqi3
+  rotate: false
+  xy: 2, 2
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+SUNBURST_BUTTERFLYFISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 35
+  size: 144, 82
+  orig: 144, 82
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: true
+  xy: 264, 22
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+tongkong2
+  rotate: false
+  xy: 343, 106
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 32, 11
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 264, 34
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 290, 42
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 319, 68
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 319, 94
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 2, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: false
+  xy: 148, 22
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+yuqiyy
+  rotate: false
+  xy: 264, 65
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1

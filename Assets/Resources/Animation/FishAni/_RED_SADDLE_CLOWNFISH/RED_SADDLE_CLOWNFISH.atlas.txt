@@ -1,0 +1,90 @@
+
+RED_SADDLE_CLOWNFISH.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuqi
+  rotate: false
+  xy: 154, 57
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+fuqiyy
+  rotate: false
+  xy: 281, 158
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 2, 54
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 114
+  size: 277, 136
+  orig: 277, 136
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 343, 177
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+weiqi
+  rotate: false
+  xy: 281, 201
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 216, 83
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 424, 206
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 2, 2
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 65, 13
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 363, 217
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: true
+  xy: 281, 112
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1

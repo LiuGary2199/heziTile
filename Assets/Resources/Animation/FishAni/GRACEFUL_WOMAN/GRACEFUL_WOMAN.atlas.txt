@@ -1,0 +1,125 @@
+
+GRACEFUL_WOMAN.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: true
+  xy: 115, 12
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+ceqi_yz
+  rotate: true
+  xy: 230, 111
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+ceqi_zhenzhu
+  rotate: false
+  xy: 2, 6
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 166, 28
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+huabian
+  rotate: true
+  xy: 83, 33
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 15
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 58
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 168, 66
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 146, 74
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+toufa_yz
+  rotate: false
+  xy: 146, 102
+  size: 82, 24
+  orig: 82, 24
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: true
+  xy: 149, 33
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 226, 75
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 83, 6
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 146, 58
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 230, 92
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 145, 12
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: true
+  xy: 115, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1

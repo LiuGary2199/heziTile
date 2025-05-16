@@ -1,0 +1,97 @@
+
+TIGER_ANGELFISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuqi
+  rotate: false
+  xy: 189, 108
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+fuqiyzi
+  rotate: false
+  xy: 139, 71
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 112, 22
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 49
+  size: 135, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 217, 114
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+xiaoqix
+  rotate: false
+  xy: 93, 27
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 169, 72
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 93, 4
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 124, 32
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+yanpib
+  rotate: false
+  xy: 139, 51
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+yanpiz
+  rotate: false
+  xy: 189, 91
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+yuqis
+  rotate: false
+  xy: 2, 2
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+yuqix
+  rotate: false
+  xy: 139, 89
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1

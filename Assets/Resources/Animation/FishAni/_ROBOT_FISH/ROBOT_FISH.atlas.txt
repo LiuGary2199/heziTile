@@ -1,0 +1,90 @@
+
+ROBOT_FISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaixin
+  rotate: false
+  xy: 378, 67
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+nanguo
+  rotate: false
+  xy: 250, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: false
+  xy: 323, 98
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: false
+  xy: 378, 35
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 441, 103
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 314, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 2, 31
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 104, 52
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+weiba01
+  rotate: false
+  xy: 104, 37
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+weiba02
+  rotate: false
+  xy: 250, 68
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 184, 58
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+zhayan
+  rotate: false
+  xy: 2, 24
+  size: 63, 5
+  orig: 63, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+TWO_STRIPE_DAMSELFISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: true
+  xy: 69, 8
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+heiyanzhu
+  rotate: false
+  xy: 398, 119
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+lanyanqiu
+  rotate: false
+  xy: 331, 100
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 2, 8
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 39
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 331, 112
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 110, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 2, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 296, 63
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 152, 23
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 264, 41
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 132, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yyq1
+  rotate: false
+  xy: 175, 23
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+yyq10
+  rotate: false
+  xy: 264, 97
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+yyq11
+  rotate: false
+  xy: 110, 23
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+yyq2
+  rotate: false
+  xy: 373, 108
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yyq3
+  rotate: true
+  xy: 154, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yyq8
+  rotate: false
+  xy: 264, 61
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+yyq9
+  rotate: false
+  xy: 133, 39
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1

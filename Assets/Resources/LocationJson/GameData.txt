@@ -1,0 +1,4700 @@
+{
+  "FishShop": [
+    {
+      "Name": "Clownfish",
+      "BasePrice": 110,
+      "AddPrice": 60,
+      "UnlockType": "level",
+      "UnlockValue": 2,
+      "ArtPath": "CLOWNFISH/CLOWNFISH_SkeletonData",
+      "SkinName": "CLOWNFISH",
+      "Pos_X": 19,
+      "Pos_Y": -15
+    },
+    {
+      "Name": "Regal Tang",
+      "BasePrice": 120,
+      "AddPrice": 60,
+      "UnlockType": "level",
+      "UnlockValue": 3,
+      "ArtPath": "REGAL_TANG/REGAL_TANG(CS)_SkeletonData",
+      "SkinName": "REGAL_TANG",
+      "Pos_X": -25,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Yellow Tropical",
+      "BasePrice": 150,
+      "AddPrice": 80,
+      "UnlockType": "level",
+      "UnlockValue": 5,
+      "ArtPath": "YELLOW_TROPICAL/YELLOW_TROPICAL_SkeletonData",
+      "SkinName": "YELLOW_TROPICAL",
+      "Pos_X": 1.9,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Bannerfish",
+      "BasePrice": 175,
+      "AddPrice": 80,
+      "UnlockType": "level",
+      "UnlockValue": 8,
+      "ArtPath": "BANNERFISH/BANNERFISH_SkeletonData",
+      "SkinName": "BANNERFISH",
+      "Pos_X": -16,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Flame Hawkfish",
+      "BasePrice": 200,
+      "AddPrice": 100,
+      "UnlockType": "level",
+      "UnlockValue": 11,
+      "ArtPath": "FLAME_HAWKFISH/FLAME_HAWKFISH_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -10,
+      "Pos_Y": -11
+    },
+    {
+      "Name": "Blacktail Butterflyfish",
+      "BasePrice": 240,
+      "AddPrice": 100,
+      "UnlockType": "level",
+      "UnlockValue": 15,
+      "ArtPath": "BLACKTAIL_BUTTERFLYFISH/BLACKTAIL_BUTTERFLYFISH_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": 1.9,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Coelacanth",
+      "BasePrice": 300,
+      "AddPrice": 100,
+      "UnlockType": "level",
+      "UnlockValue": 19,
+      "ArtPath": "COELACANTH/COELACANTH(CS)_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": 1.9,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Globefish",
+      "BasePrice": 350,
+      "AddPrice": 120,
+      "UnlockType": "level",
+      "UnlockValue": 23,
+      "ArtPath": "GLOBEFISH/GLOBEFISH(CS)_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -10,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Yellow Eye Tang",
+      "BasePrice": 410,
+      "AddPrice": 120,
+      "UnlockType": "level",
+      "UnlockValue": 27,
+      "ArtPath": "YELLOW_EYE_TANG/YELLOW_EYE_TANG_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -8,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Bluehead Wrasse",
+      "BasePrice": 480,
+      "AddPrice": 120,
+      "UnlockType": "level",
+      "UnlockValue": 31,
+      "ArtPath": "BLUEHEAD_WRASSE/BLUEHEAD_WRASSE_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -30,
+      "Pos_Y": -2
+    },
+    {
+      "Name": "Lanterfish",
+      "BasePrice": 560,
+      "AddPrice": 120,
+      "UnlockType": "level",
+      "UnlockValue": 35,
+      "ArtPath": "LANTERFISH/LANTERFISH_SkeletonData",
+      "SkinName": "LANTERFISH",
+      "Pos_X": -8,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Longnose Hawkfish",
+      "BasePrice": 650,
+      "AddPrice": 120,
+      "UnlockType": "level",
+      "UnlockValue": 39,
+      "ArtPath": "LONGNOSE_HAWKFISH/LONGNOSE_HAWKFISH_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": 0,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Sergeant Major",
+      "BasePrice": 740,
+      "AddPrice": 140,
+      "UnlockType": "level",
+      "UnlockValue": 43,
+      "ArtPath": "SERGEANT_MAJOR/SERGEANT_MAJOR(CS)_SkeletonData",
+      "SkinName": "SERGEANT_MAJOR",
+      "Pos_X": -19,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Sohal Tang",
+      "BasePrice": 840,
+      "AddPrice": 140,
+      "UnlockType": "level",
+      "UnlockValue": 47,
+      "ArtPath": "SOHAL_TANG/SOHAL_TANG_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -17,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Tulip Fish",
+      "BasePrice": 950,
+      "AddPrice": 140,
+      "UnlockType": "level",
+      "UnlockValue": 51,
+      "ArtPath": "TULIP_FISH/TULIP_FISH_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -7,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Dottyback",
+      "BasePrice": 1050,
+      "AddPrice": 140,
+      "UnlockType": "level",
+      "UnlockValue": 55,
+      "ArtPath": "DOTTYBACK/DOTTYBACK(CS)_SkeletonData",
+      "SkinName": "DOTTYBACK",
+      "Pos_X": -14,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Achilles Tang",
+      "BasePrice": 1180,
+      "AddPrice": 160,
+      "UnlockType": "level",
+      "UnlockValue": 59,
+      "ArtPath": "ACHILLES_TANG/ACHILLES_TANG_SkeletonData",
+      "SkinName": "ACHILLES_TANG",
+      "Pos_X": -23,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Blonde Naso Tang",
+      "BasePrice": 1300,
+      "AddPrice": 160,
+      "UnlockType": "level",
+      "UnlockValue": 63,
+      "ArtPath": "BLONDE_NASO_TANG/BLONDE_NASO_TANG_SkeletonData",
+      "SkinName": "BLONDE_NASO_TANG",
+      "Pos_X": -30,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Goby",
+      "BasePrice": 1450,
+      "AddPrice": 160,
+      "UnlockType": "level",
+      "UnlockValue": 67,
+      "ArtPath": "GOBY/GOBY(CS)_SkeletonData",
+      "SkinName": "GOBY",
+      "Pos_X": -7,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Red Velvet Wrasse",
+      "BasePrice": 1600,
+      "AddPrice": 160,
+      "UnlockType": "level",
+      "UnlockValue": 71,
+      "ArtPath": "RED_VELVET_WRASSE/RED_VELVET_WRASSE_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": -10,
+      "Pos_Y": -5.5
+    },
+    {
+      "Name": "Rainbowfish",
+      "BasePrice": 1750,
+      "AddPrice": 180,
+      "UnlockType": "level",
+      "UnlockValue": 75,
+      "ArtPath": "RAINBOWFISH/RAINBOWFISH(CS)_SkeletonData",
+      "SkinName": "default",
+      "Pos_X": 1.9,
+      "Pos_Y": -5.5
+    }
+  ],
+  "AquariumShop": [
+    {
+      "Name": "Aquarium 1",
+      "UnlockValue": 0,
+      "Capacity": 25
+    },
+    {
+      "Name": "Aquarium 2",
+      "UnlockValue": 7,
+      "Capacity": 25
+    },
+    {
+      "Name": "Aquarium 3",
+      "UnlockValue": 20,
+      "Capacity": 25
+    },
+    {
+      "Name": "Aquarium 4",
+      "UnlockValue": 45,
+      "Capacity": 25
+    },
+    {
+      "Name": "Aquarium 5",
+      "UnlockValue": 60,
+      "Capacity": 25
+    }
+  ],
+  "DailyBonus": [
+    {
+      "Day": 1,
+      "Type": "Gold",
+      "Value": 30
+    },
+    {
+      "Day": 2,
+      "Type": "Gold",
+      "Value": 50
+    },
+    {
+      "Day": 3,
+      "Type": "Gold",
+      "Value": 70
+    },
+    {
+      "Day": 4,
+      "Type": "Gold",
+      "Value": 80
+    },
+    {
+      "Day": 5,
+      "Type": "Gold",
+      "Value": 90
+    },
+    {
+      "Day": 6,
+      "Type": "Gold",
+      "Value": 100
+    },
+    {
+      "Day": 7,
+      "Type": "Gold",
+      "Value": 110
+    }
+  ],
+  "BigChest": [
+    {
+      "Level": 2,
+      "Exp": 3,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        },
+        {
+          "type": "Gold",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "Level": 3,
+      "Exp": 3,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 12
+        },
+        {
+          "type": "Hint",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 10
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 4,
+      "Exp": 3,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Shuffle",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "Level": 5,
+      "Exp": 4,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 9
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 6,
+      "Exp": 4,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 7,
+      "Exp": 4,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "Exp": 4,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 9,
+      "Exp": 5,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 10,
+      "Exp": 5,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "Exp": 5,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 12,
+      "Exp": 5,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Hint",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 13,
+      "Exp": 5,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "Level": 14,
+      "Exp": 6,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 15,
+      "Exp": 6,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "Level": 16,
+      "Exp": 6,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 17,
+      "Exp": 6,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "Level": 18,
+      "Exp": 6,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 19,
+      "Exp": 6,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 20,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 21,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 22,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 23,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Shuffle",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 24,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "Level": 25,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "Level": 26,
+      "Exp": 7,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 27,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 28,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 29,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Hint",
+          "value": 2
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 30,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 31,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "Level": 32,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 33,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 34,
+      "Exp": 8,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "Level": 35,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 36,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 37,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 38,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 39,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 40,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 41,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 42,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 43,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 44,
+      "Exp": 9,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 45,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 46,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "Level": 47,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 48,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 49,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 50,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 51,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 52,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 53,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 54,
+      "Exp": 10,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 55,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 56,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 57,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "Level": 58,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 59,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 60,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 61,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "Level": 62,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 63,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 64,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 65,
+      "Exp": 11,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 66,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 67,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 68,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 69,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 70,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 71,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 72,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 73,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 74,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 75,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 76,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 77,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 78,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 79,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 80,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 81,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 82,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "Level": 83,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "Level": 84,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "Level": 85,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 86,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 87,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 88,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 89,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 90,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Hint",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "Level": 91,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "Level": 92,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 93,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 94,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 95,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Shuffle",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "Level": 96,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Undo",
+          "value": 1
+        },
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "Level": 97,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 3
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        },
+        {
+          "type": "Gold",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "Level": 9999,
+      "Exp": 12,
+      "ValueGroup": [
+        {
+          "type": "Gold",
+          "value": 4
+        },
+        {
+          "type": "Gold",
+          "value": 6
+        },
+        {
+          "type": "Gold",
+          "value": 5
+        }
+      ]
+    }
+  ],
+  "UserLevel": [
+    {
+      "Level": 2,
+      "Exp": 1
+    },
+    {
+      "Level": 3,
+      "Exp": 2
+    },
+    {
+      "Level": 4,
+      "Exp": 2
+    },
+    {
+      "Level": 5,
+      "Exp": 2
+    },
+    {
+      "Level": 6,
+      "Exp": 3
+    },
+    {
+      "Level": 7,
+      "Exp": 3
+    },
+    {
+      "Level": 8,
+      "Exp": 3
+    },
+    {
+      "Level": 9,
+      "Exp": 3
+    },
+    {
+      "Level": 10,
+      "Exp": 3
+    },
+    {
+      "Level": 11,
+      "Exp": 3
+    },
+    {
+      "Level": 12,
+      "Exp": 5
+    },
+    {
+      "Level": 13,
+      "Exp": 5
+    },
+    {
+      "Level": 14,
+      "Exp": 5
+    },
+    {
+      "Level": 15,
+      "Exp": 5
+    },
+    {
+      "Level": 16,
+      "Exp": 5
+    },
+    {
+      "Level": 17,
+      "Exp": 5
+    },
+    {
+      "Level": 18,
+      "Exp": 5
+    },
+    {
+      "Level": 19,
+      "Exp": 5
+    },
+    {
+      "Level": 20,
+      "Exp": 5
+    },
+    {
+      "Level": 21,
+      "Exp": 5
+    },
+    {
+      "Level": 22,
+      "Exp": 5
+    },
+    {
+      "Level": 23,
+      "Exp": 5
+    },
+    {
+      "Level": 24,
+      "Exp": 5
+    },
+    {
+      "Level": 25,
+      "Exp": 5
+    },
+    {
+      "Level": 26,
+      "Exp": 5
+    },
+    {
+      "Level": 27,
+      "Exp": 5
+    },
+    {
+      "Level": 28,
+      "Exp": 5
+    },
+    {
+      "Level": 29,
+      "Exp": 5
+    },
+    {
+      "Level": 30,
+      "Exp": 5
+    },
+    {
+      "Level": 31,
+      "Exp": 5
+    },
+    {
+      "Level": 32,
+      "Exp": 7
+    },
+    {
+      "Level": 33,
+      "Exp": 7
+    },
+    {
+      "Level": 34,
+      "Exp": 7
+    },
+    {
+      "Level": 35,
+      "Exp": 7
+    },
+    {
+      "Level": 36,
+      "Exp": 7
+    },
+    {
+      "Level": 37,
+      "Exp": 7
+    },
+    {
+      "Level": 38,
+      "Exp": 7
+    },
+    {
+      "Level": 39,
+      "Exp": 7
+    },
+    {
+      "Level": 40,
+      "Exp": 7
+    },
+    {
+      "Level": 41,
+      "Exp": 7
+    },
+    {
+      "Level": 42,
+      "Exp": 7
+    },
+    {
+      "Level": 43,
+      "Exp": 7
+    },
+    {
+      "Level": 44,
+      "Exp": 7
+    },
+    {
+      "Level": 45,
+      "Exp": 7
+    },
+    {
+      "Level": 46,
+      "Exp": 7
+    },
+    {
+      "Level": 47,
+      "Exp": 7
+    },
+    {
+      "Level": 48,
+      "Exp": 7
+    },
+    {
+      "Level": 49,
+      "Exp": 7
+    },
+    {
+      "Level": 50,
+      "Exp": 7
+    },
+    {
+      "Level": 51,
+      "Exp": 7
+    },
+    {
+      "Level": 52,
+      "Exp": 9
+    },
+    {
+      "Level": 53,
+      "Exp": 9
+    },
+    {
+      "Level": 54,
+      "Exp": 9
+    },
+    {
+      "Level": 55,
+      "Exp": 9
+    },
+    {
+      "Level": 56,
+      "Exp": 9
+    },
+    {
+      "Level": 57,
+      "Exp": 9
+    },
+    {
+      "Level": 58,
+      "Exp": 9
+    },
+    {
+      "Level": 59,
+      "Exp": 9
+    },
+    {
+      "Level": 60,
+      "Exp": 9
+    },
+    {
+      "Level": 61,
+      "Exp": 9
+    },
+    {
+      "Level": 62,
+      "Exp": 9
+    },
+    {
+      "Level": 63,
+      "Exp": 9
+    },
+    {
+      "Level": 64,
+      "Exp": 9
+    },
+    {
+      "Level": 65,
+      "Exp": 9
+    },
+    {
+      "Level": 66,
+      "Exp": 9
+    },
+    {
+      "Level": 67,
+      "Exp": 9
+    },
+    {
+      "Level": 68,
+      "Exp": 9
+    },
+    {
+      "Level": 69,
+      "Exp": 9
+    },
+    {
+      "Level": 70,
+      "Exp": 9
+    },
+    {
+      "Level": 71,
+      "Exp": 9
+    },
+    {
+      "Level": 72,
+      "Exp": 9
+    },
+    {
+      "Level": 73,
+      "Exp": 9
+    },
+    {
+      "Level": 74,
+      "Exp": 9
+    },
+    {
+      "Level": 75,
+      "Exp": 9
+    },
+    {
+      "Level": 76,
+      "Exp": 10
+    },
+    {
+      "Level": 77,
+      "Exp": 10
+    },
+    {
+      "Level": 78,
+      "Exp": 10
+    },
+    {
+      "Level": 79,
+      "Exp": 10
+    },
+    {
+      "Level": 80,
+      "Exp": 10
+    },
+    {
+      "Level": 81,
+      "Exp": 10
+    },
+    {
+      "Level": 82,
+      "Exp": 10
+    },
+    {
+      "Level": 83,
+      "Exp": 10
+    },
+    {
+      "Level": 84,
+      "Exp": 10
+    },
+    {
+      "Level": 85,
+      "Exp": 10
+    },
+    {
+      "Level": 86,
+      "Exp": 10
+    },
+    {
+      "Level": 87,
+      "Exp": 10
+    },
+    {
+      "Level": 88,
+      "Exp": 10
+    },
+    {
+      "Level": 89,
+      "Exp": 10
+    },
+    {
+      "Level": 90,
+      "Exp": 10
+    },
+    {
+      "Level": 91,
+      "Exp": 10
+    },
+    {
+      "Level": 92,
+      "Exp": 10
+    },
+    {
+      "Level": 93,
+      "Exp": 10
+    },
+    {
+      "Level": 94,
+      "Exp": 10
+    },
+    {
+      "Level": 95,
+      "Exp": 10
+    },
+    {
+      "Level": 96,
+      "Exp": 10
+    },
+    {
+      "Level": 97,
+      "Exp": 10
+    },
+    {
+      "Level": 98,
+      "Exp": 10
+    },
+    {
+      "Level": 99,
+      "Exp": 10
+    },
+    {
+      "Level": 9999,
+      "Exp": 10
+    }
+  ],
+  "ShellBonus": [
+    {
+      "RequiredLevel": 1
+    },
+    {
+      "RequiredLevel": 2
+    },
+    {
+      "RequiredLevel": 3
+    },
+    {
+      "RequiredLevel": 4
+    },
+    {
+      "RequiredLevel": 5
+    },
+    {
+      "RequiredLevel": 6
+    },
+    {
+      "RequiredLevel": 7
+    },
+    {
+      "RequiredLevel": 8
+    },
+    {
+      "RequiredLevel": 9
+    },
+    {
+      "RequiredLevel": 10
+    },
+    {
+      "RequiredLevel": 11
+    },
+    {
+      "RequiredLevel": 12
+    },
+    {
+      "RequiredLevel": 13
+    },
+    {
+      "RequiredLevel": 14
+    },
+    {
+      "RequiredLevel": 15
+    },
+    {
+      "RequiredLevel": 16
+    },
+    {
+      "RequiredLevel": 17
+    },
+    {
+      "RequiredLevel": 18
+    },
+    {
+      "RequiredLevel": 19
+    },
+    {
+      "RequiredLevel": 20
+    },
+    {
+      "RequiredLevel": 21
+    },
+    {
+      "RequiredLevel": 22
+    },
+    {
+      "RequiredLevel": 23
+    },
+    {
+      "RequiredLevel": 24
+    },
+    {
+      "RequiredLevel": 25
+    },
+    {
+      "RequiredLevel": 26
+    },
+    {
+      "RequiredLevel": 27
+    },
+    {
+      "RequiredLevel": 28
+    },
+    {
+      "RequiredLevel": 29
+    },
+    {
+      "RequiredLevel": 30
+    },
+    {
+      "RequiredLevel": 31
+    },
+    {
+      "RequiredLevel": 32
+    },
+    {
+      "RequiredLevel": 33
+    },
+    {
+      "RequiredLevel": 34
+    },
+    {
+      "RequiredLevel": 35
+    },
+    {
+      "RequiredLevel": 36
+    },
+    {
+      "RequiredLevel": 37
+    },
+    {
+      "RequiredLevel": 38
+    },
+    {
+      "RequiredLevel": 39
+    },
+    {
+      "RequiredLevel": 40
+    },
+    {
+      "RequiredLevel": 42
+    },
+    {
+      "RequiredLevel": 44
+    },
+    {
+      "RequiredLevel": 46
+    },
+    {
+      "RequiredLevel": 48
+    },
+    {
+      "RequiredLevel": 50
+    },
+    {
+      "RequiredLevel": 52
+    },
+    {
+      "RequiredLevel": 54
+    },
+    {
+      "RequiredLevel": 56
+    },
+    {
+      "RequiredLevel": 58
+    },
+    {
+      "RequiredLevel": 60
+    },
+    {
+      "RequiredLevel": 62
+    },
+    {
+      "RequiredLevel": 64
+    },
+    {
+      "RequiredLevel": 66
+    },
+    {
+      "RequiredLevel": 68
+    },
+    {
+      "RequiredLevel": 70
+    },
+    {
+      "RequiredLevel": 72
+    },
+    {
+      "RequiredLevel": 74
+    },
+    {
+      "RequiredLevel": 76
+    },
+    {
+      "RequiredLevel": 78
+    },
+    {
+      "RequiredLevel": 80
+    },
+    {
+      "RequiredLevel": 85
+    },
+    {
+      "RequiredLevel": 90
+    },
+    {
+      "RequiredLevel": 95
+    },
+    {
+      "RequiredLevel": 100
+    },
+    {
+      "RequiredLevel": 105
+    },
+    {
+      "RequiredLevel": 110
+    },
+    {
+      "RequiredLevel": 115
+    },
+    {
+      "RequiredLevel": 120
+    },
+    {
+      "RequiredLevel": 125
+    },
+    {
+      "RequiredLevel": 130
+    },
+    {
+      "RequiredLevel": 135
+    },
+    {
+      "RequiredLevel": 140
+    },
+    {
+      "RequiredLevel": 145
+    },
+    {
+      "RequiredLevel": 150
+    },
+    {
+      "RequiredLevel": 160
+    },
+    {
+      "RequiredLevel": 170
+    },
+    {
+      "RequiredLevel": 180
+    },
+    {
+      "RequiredLevel": 190
+    },
+    {
+      "RequiredLevel": 200
+    },
+    {
+      "RequiredLevel": 210
+    },
+    {
+      "RequiredLevel": 220
+    },
+    {
+      "RequiredLevel": 230
+    },
+    {
+      "RequiredLevel": 240
+    },
+    {
+      "RequiredLevel": 250
+    },
+    {
+      "RequiredLevel": 260
+    },
+    {
+      "RequiredLevel": 270
+    },
+    {
+      "RequiredLevel": 280
+    },
+    {
+      "RequiredLevel": 290
+    },
+    {
+      "RequiredLevel": 300
+    },
+    {
+      "RequiredLevel": 310
+    },
+    {
+      "RequiredLevel": 320
+    },
+    {
+      "RequiredLevel": 330
+    },
+    {
+      "RequiredLevel": 340
+    },
+    {
+      "RequiredLevel": 350
+    },
+    {
+      "RequiredLevel": 360
+    },
+    {
+      "RequiredLevel": 370
+    },
+    {
+      "RequiredLevel": 380
+    },
+    {
+      "RequiredLevel": 390
+    },
+    {
+      "RequiredLevel": 400
+    },
+    {
+      "RequiredLevel": 410
+    },
+    {
+      "RequiredLevel": 420
+    },
+    {
+      "RequiredLevel": 430
+    },
+    {
+      "RequiredLevel": 440
+    },
+    {
+      "RequiredLevel": 450
+    },
+    {
+      "RequiredLevel": 460
+    },
+    {
+      "RequiredLevel": 470
+    },
+    {
+      "RequiredLevel": 480
+    },
+    {
+      "RequiredLevel": 490
+    },
+    {
+      "RequiredLevel": 500
+    },
+    {
+      "RequiredLevel": 510
+    },
+    {
+      "RequiredLevel": 520
+    },
+    {
+      "RequiredLevel": 530
+    },
+    {
+      "RequiredLevel": 540
+    },
+    {
+      "RequiredLevel": 550
+    },
+    {
+      "RequiredLevel": 560
+    },
+    {
+      "RequiredLevel": 570
+    },
+    {
+      "RequiredLevel": 580
+    },
+    {
+      "RequiredLevel": 590
+    },
+    {
+      "RequiredLevel": 600
+    },
+    {
+      "RequiredLevel": 610
+    },
+    {
+      "RequiredLevel": 620
+    },
+    {
+      "RequiredLevel": 630
+    },
+    {
+      "RequiredLevel": 640
+    },
+    {
+      "RequiredLevel": 650
+    },
+    {
+      "RequiredLevel": 660
+    },
+    {
+      "RequiredLevel": 670
+    },
+    {
+      "RequiredLevel": 680
+    },
+    {
+      "RequiredLevel": 690
+    },
+    {
+      "RequiredLevel": 700
+    },
+    {
+      "RequiredLevel": 710
+    },
+    {
+      "RequiredLevel": 720
+    },
+    {
+      "RequiredLevel": 730
+    },
+    {
+      "RequiredLevel": 740
+    },
+    {
+      "RequiredLevel": 750
+    },
+    {
+      "RequiredLevel": 760
+    },
+    {
+      "RequiredLevel": 770
+    },
+    {
+      "RequiredLevel": 780
+    },
+    {
+      "RequiredLevel": 790
+    },
+    {
+      "RequiredLevel": 800
+    },
+    {
+      "RequiredLevel": 810
+    },
+    {
+      "RequiredLevel": 820
+    },
+    {
+      "RequiredLevel": 830
+    },
+    {
+      "RequiredLevel": 840
+    },
+    {
+      "RequiredLevel": 850
+    },
+    {
+      "RequiredLevel": 860
+    },
+    {
+      "RequiredLevel": 870
+    },
+    {
+      "RequiredLevel": 880
+    },
+    {
+      "RequiredLevel": 890
+    },
+    {
+      "RequiredLevel": 900
+    },
+    {
+      "RequiredLevel": 910
+    },
+    {
+      "RequiredLevel": 920
+    },
+    {
+      "RequiredLevel": 930
+    },
+    {
+      "RequiredLevel": 940
+    },
+    {
+      "RequiredLevel": 950
+    },
+    {
+      "RequiredLevel": 960
+    },
+    {
+      "RequiredLevel": 970
+    },
+    {
+      "RequiredLevel": 980
+    },
+    {
+      "RequiredLevel": 990
+    },
+    {
+      "RequiredLevel": 1000
+    },
+    {
+      "RequiredLevel": 1010
+    },
+    {
+      "RequiredLevel": 1020
+    },
+    {
+      "RequiredLevel": 1030
+    },
+    {
+      "RequiredLevel": 1040
+    },
+    {
+      "RequiredLevel": 1050
+    },
+    {
+      "RequiredLevel": 1060
+    },
+    {
+      "RequiredLevel": 1070
+    },
+    {
+      "RequiredLevel": 1080
+    },
+    {
+      "RequiredLevel": 1090
+    },
+    {
+      "RequiredLevel": 1100
+    },
+    {
+      "RequiredLevel": 1110
+    },
+    {
+      "RequiredLevel": 1120
+    },
+    {
+      "RequiredLevel": 1130
+    },
+    {
+      "RequiredLevel": 1140
+    },
+    {
+      "RequiredLevel": 1150
+    },
+    {
+      "RequiredLevel": 1160
+    },
+    {
+      "RequiredLevel": 1170
+    },
+    {
+      "RequiredLevel": 1180
+    },
+    {
+      "RequiredLevel": 1190
+    },
+    {
+      "RequiredLevel": 1200
+    },
+    {
+      "RequiredLevel": 1220
+    },
+    {
+      "RequiredLevel": 1240
+    },
+    {
+      "RequiredLevel": 1260
+    },
+    {
+      "RequiredLevel": 1280
+    },
+    {
+      "RequiredLevel": 1300
+    },
+    {
+      "RequiredLevel": 1320
+    },
+    {
+      "RequiredLevel": 1340
+    },
+    {
+      "RequiredLevel": 1360
+    },
+    {
+      "RequiredLevel": 1380
+    },
+    {
+      "RequiredLevel": 1400
+    },
+    {
+      "RequiredLevel": 1420
+    },
+    {
+      "RequiredLevel": 1440
+    },
+    {
+      "RequiredLevel": 1460
+    },
+    {
+      "RequiredLevel": 1480
+    },
+    {
+      "RequiredLevel": 1500
+    },
+    {
+      "RequiredLevel": 1520
+    },
+    {
+      "RequiredLevel": 1540
+    },
+    {
+      "RequiredLevel": 1560
+    },
+    {
+      "RequiredLevel": 1580
+    },
+    {
+      "RequiredLevel": 1600
+    },
+    {
+      "RequiredLevel": 1620
+    },
+    {
+      "RequiredLevel": 1640
+    },
+    {
+      "RequiredLevel": 1660
+    },
+    {
+      "RequiredLevel": 1680
+    },
+    {
+      "RequiredLevel": 1700
+    },
+    {
+      "RequiredLevel": 1720
+    },
+    {
+      "RequiredLevel": 1740
+    },
+    {
+      "RequiredLevel": 1760
+    },
+    {
+      "RequiredLevel": 1780
+    },
+    {
+      "RequiredLevel": 1800
+    },
+    {
+      "RequiredLevel": 1820
+    },
+    {
+      "RequiredLevel": 1840
+    },
+    {
+      "RequiredLevel": 1860
+    },
+    {
+      "RequiredLevel": 1880
+    },
+    {
+      "RequiredLevel": 1900
+    },
+    {
+      "RequiredLevel": 1920
+    },
+    {
+      "RequiredLevel": 1940
+    },
+    {
+      "RequiredLevel": 1960
+    },
+    {
+      "RequiredLevel": 1980
+    },
+    {
+      "RequiredLevel": 2000
+    },
+    {
+      "RequiredLevel": 2020
+    },
+    {
+      "RequiredLevel": 2040
+    },
+    {
+      "RequiredLevel": 2060
+    },
+    {
+      "RequiredLevel": 2080
+    },
+    {
+      "RequiredLevel": 2100
+    },
+    {
+      "RequiredLevel": 2120
+    },
+    {
+      "RequiredLevel": 2140
+    },
+    {
+      "RequiredLevel": 2160
+    },
+    {
+      "RequiredLevel": 2180
+    },
+    {
+      "RequiredLevel": 2200
+    },
+    {
+      "RequiredLevel": 2220
+    },
+    {
+      "RequiredLevel": 2240
+    },
+    {
+      "RequiredLevel": 2260
+    },
+    {
+      "RequiredLevel": 2280
+    },
+    {
+      "RequiredLevel": 2300
+    },
+    {
+      "RequiredLevel": 2320
+    },
+    {
+      "RequiredLevel": 2340
+    },
+    {
+      "RequiredLevel": 2360
+    },
+    {
+      "RequiredLevel": 2380
+    },
+    {
+      "RequiredLevel": 2400
+    },
+    {
+      "RequiredLevel": 2420
+    },
+    {
+      "RequiredLevel": 2440
+    },
+    {
+      "RequiredLevel": 2460
+    },
+    {
+      "RequiredLevel": 2480
+    },
+    {
+      "RequiredLevel": 2500
+    },
+    {
+      "RequiredLevel": 2520
+    },
+    {
+      "RequiredLevel": 2540
+    },
+    {
+      "RequiredLevel": 2560
+    },
+    {
+      "RequiredLevel": 2580
+    },
+    {
+      "RequiredLevel": 2600
+    },
+    {
+      "RequiredLevel": 2620
+    },
+    {
+      "RequiredLevel": 2640
+    },
+    {
+      "RequiredLevel": 2660
+    },
+    {
+      "RequiredLevel": 2680
+    },
+    {
+      "RequiredLevel": 2700
+    },
+    {
+      "RequiredLevel": 2720
+    },
+    {
+      "RequiredLevel": 2740
+    },
+    {
+      "RequiredLevel": 2760
+    },
+    {
+      "RequiredLevel": 2780
+    },
+    {
+      "RequiredLevel": 2800
+    },
+    {
+      "RequiredLevel": 2820
+    },
+    {
+      "RequiredLevel": 2840
+    },
+    {
+      "RequiredLevel": 2860
+    },
+    {
+      "RequiredLevel": 2880
+    },
+    {
+      "RequiredLevel": 2900
+    },
+    {
+      "RequiredLevel": 2920
+    },
+    {
+      "RequiredLevel": 2940
+    },
+    {
+      "RequiredLevel": 2960
+    },
+    {
+      "RequiredLevel": 2980
+    },
+    {
+      "RequiredLevel": 3000
+    },
+    {
+      "RequiredLevel": 3020
+    },
+    {
+      "RequiredLevel": 3040
+    },
+    {
+      "RequiredLevel": 3060
+    },
+    {
+      "RequiredLevel": 3080
+    },
+    {
+      "RequiredLevel": 3100
+    },
+    {
+      "RequiredLevel": 3120
+    },
+    {
+      "RequiredLevel": 3140
+    },
+    {
+      "RequiredLevel": 3160
+    },
+    {
+      "RequiredLevel": 3180
+    },
+    {
+      "RequiredLevel": 3200
+    },
+    {
+      "RequiredLevel": 3220
+    },
+    {
+      "RequiredLevel": 3240
+    },
+    {
+      "RequiredLevel": 3260
+    },
+    {
+      "RequiredLevel": 3280
+    },
+    {
+      "RequiredLevel": 3300
+    },
+    {
+      "RequiredLevel": 3320
+    },
+    {
+      "RequiredLevel": 3340
+    },
+    {
+      "RequiredLevel": 3360
+    },
+    {
+      "RequiredLevel": 3380
+    },
+    {
+      "RequiredLevel": 3400
+    },
+    {
+      "RequiredLevel": 3420
+    },
+    {
+      "RequiredLevel": 3440
+    },
+    {
+      "RequiredLevel": 3460
+    },
+    {
+      "RequiredLevel": 3480
+    },
+    {
+      "RequiredLevel": 3500
+    },
+    {
+      "RequiredLevel": 3520
+    },
+    {
+      "RequiredLevel": 3540
+    },
+    {
+      "RequiredLevel": 3560
+    },
+    {
+      "RequiredLevel": 3580
+    },
+    {
+      "RequiredLevel": 3600
+    },
+    {
+      "RequiredLevel": 3620
+    },
+    {
+      "RequiredLevel": 3640
+    },
+    {
+      "RequiredLevel": 3660
+    },
+    {
+      "RequiredLevel": 3680
+    },
+    {
+      "RequiredLevel": 3700
+    },
+    {
+      "RequiredLevel": 3720
+    },
+    {
+      "RequiredLevel": 3740
+    },
+    {
+      "RequiredLevel": 3760
+    },
+    {
+      "RequiredLevel": 3780
+    },
+    {
+      "RequiredLevel": 3800
+    },
+    {
+      "RequiredLevel": 3820
+    },
+    {
+      "RequiredLevel": 3840
+    },
+    {
+      "RequiredLevel": 3860
+    },
+    {
+      "RequiredLevel": 3880
+    },
+    {
+      "RequiredLevel": 3900
+    },
+    {
+      "RequiredLevel": 3920
+    },
+    {
+      "RequiredLevel": 3940
+    },
+    {
+      "RequiredLevel": 3960
+    },
+    {
+      "RequiredLevel": 3980
+    },
+    {
+      "RequiredLevel": 4000
+    },
+    {
+      "RequiredLevel": 4020
+    },
+    {
+      "RequiredLevel": 4040
+    },
+    {
+      "RequiredLevel": 4060
+    },
+    {
+      "RequiredLevel": 4080
+    },
+    {
+      "RequiredLevel": 4100
+    },
+    {
+      "RequiredLevel": 4120
+    },
+    {
+      "RequiredLevel": 4140
+    },
+    {
+      "RequiredLevel": 4160
+    },
+    {
+      "RequiredLevel": 4180
+    },
+    {
+      "RequiredLevel": 4200
+    },
+    {
+      "RequiredLevel": 4220
+    },
+    {
+      "RequiredLevel": 4240
+    },
+    {
+      "RequiredLevel": 4260
+    },
+    {
+      "RequiredLevel": 4280
+    },
+    {
+      "RequiredLevel": 4300
+    },
+    {
+      "RequiredLevel": 4320
+    },
+    {
+      "RequiredLevel": 4340
+    },
+    {
+      "RequiredLevel": 4360
+    },
+    {
+      "RequiredLevel": 4380
+    },
+    {
+      "RequiredLevel": 4400
+    },
+    {
+      "RequiredLevel": 4420
+    },
+    {
+      "RequiredLevel": 4440
+    },
+    {
+      "RequiredLevel": 4460
+    },
+    {
+      "RequiredLevel": 4480
+    },
+    {
+      "RequiredLevel": 4500
+    },
+    {
+      "RequiredLevel": 4520
+    },
+    {
+      "RequiredLevel": 4540
+    },
+    {
+      "RequiredLevel": 4560
+    },
+    {
+      "RequiredLevel": 4580
+    },
+    {
+      "RequiredLevel": 4600
+    },
+    {
+      "RequiredLevel": 4620
+    },
+    {
+      "RequiredLevel": 4640
+    },
+    {
+      "RequiredLevel": 4660
+    },
+    {
+      "RequiredLevel": 4680
+    },
+    {
+      "RequiredLevel": 4700
+    },
+    {
+      "RequiredLevel": 4720
+    },
+    {
+      "RequiredLevel": 4740
+    },
+    {
+      "RequiredLevel": 4760
+    },
+    {
+      "RequiredLevel": 4780
+    },
+    {
+      "RequiredLevel": 4800
+    },
+    {
+      "RequiredLevel": 4820
+    },
+    {
+      "RequiredLevel": 4840
+    },
+    {
+      "RequiredLevel": 4860
+    },
+    {
+      "RequiredLevel": 4880
+    },
+    {
+      "RequiredLevel": 4900
+    },
+    {
+      "RequiredLevel": 4920
+    },
+    {
+      "RequiredLevel": 4940
+    },
+    {
+      "RequiredLevel": 4960
+    },
+    {
+      "RequiredLevel": 4980
+    },
+    {
+      "RequiredLevel": 5000
+    },
+    {
+      "RequiredLevel": 5020
+    },
+    {
+      "RequiredLevel": 5040
+    },
+    {
+      "RequiredLevel": 5060
+    },
+    {
+      "RequiredLevel": 5080
+    },
+    {
+      "RequiredLevel": 5100
+    },
+    {
+      "RequiredLevel": 5120
+    },
+    {
+      "RequiredLevel": 5140
+    },
+    {
+      "RequiredLevel": 5160
+    },
+    {
+      "RequiredLevel": 5180
+    },
+    {
+      "RequiredLevel": 5200
+    },
+    {
+      "RequiredLevel": 5220
+    },
+    {
+      "RequiredLevel": 5240
+    },
+    {
+      "RequiredLevel": 5260
+    },
+    {
+      "RequiredLevel": 5280
+    },
+    {
+      "RequiredLevel": 5300
+    },
+    {
+      "RequiredLevel": 5320
+    },
+    {
+      "RequiredLevel": 5340
+    },
+    {
+      "RequiredLevel": 5360
+    },
+    {
+      "RequiredLevel": 5380
+    },
+    {
+      "RequiredLevel": 5400
+    },
+    {
+      "RequiredLevel": 5420
+    },
+    {
+      "RequiredLevel": 5440
+    },
+    {
+      "RequiredLevel": 5460
+    },
+    {
+      "RequiredLevel": 5480
+    },
+    {
+      "RequiredLevel": 5500
+    },
+    {
+      "RequiredLevel": 5520
+    },
+    {
+      "RequiredLevel": 5540
+    },
+    {
+      "RequiredLevel": 5560
+    },
+    {
+      "RequiredLevel": 5580
+    },
+    {
+      "RequiredLevel": 5600
+    },
+    {
+      "RequiredLevel": 5620
+    },
+    {
+      "RequiredLevel": 5640
+    },
+    {
+      "RequiredLevel": 5660
+    },
+    {
+      "RequiredLevel": 5680
+    },
+    {
+      "RequiredLevel": 5700
+    },
+    {
+      "RequiredLevel": 5720
+    },
+    {
+      "RequiredLevel": 5740
+    },
+    {
+      "RequiredLevel": 5760
+    },
+    {
+      "RequiredLevel": 5780
+    },
+    {
+      "RequiredLevel": 5800
+    },
+    {
+      "RequiredLevel": 5820
+    },
+    {
+      "RequiredLevel": 5840
+    },
+    {
+      "RequiredLevel": 5860
+    },
+    {
+      "RequiredLevel": 5880
+    },
+    {
+      "RequiredLevel": 5900
+    },
+    {
+      "RequiredLevel": 5920
+    },
+    {
+      "RequiredLevel": 5940
+    },
+    {
+      "RequiredLevel": 5960
+    },
+    {
+      "RequiredLevel": 5980
+    },
+    {
+      "RequiredLevel": 6000
+    },
+    {
+      "RequiredLevel": 6020
+    },
+    {
+      "RequiredLevel": 6040
+    },
+    {
+      "RequiredLevel": 6060
+    },
+    {
+      "RequiredLevel": 6080
+    },
+    {
+      "RequiredLevel": 6100
+    },
+    {
+      "RequiredLevel": 6120
+    },
+    {
+      "RequiredLevel": 6140
+    },
+    {
+      "RequiredLevel": 6160
+    },
+    {
+      "RequiredLevel": 6180
+    },
+    {
+      "RequiredLevel": 6200
+    },
+    {
+      "RequiredLevel": 6220
+    },
+    {
+      "RequiredLevel": 6240
+    },
+    {
+      "RequiredLevel": 6260
+    },
+    {
+      "RequiredLevel": 6280
+    },
+    {
+      "RequiredLevel": 6300
+    },
+    {
+      "RequiredLevel": 6320
+    },
+    {
+      "RequiredLevel": 6340
+    },
+    {
+      "RequiredLevel": 6360
+    },
+    {
+      "RequiredLevel": 6380
+    },
+    {
+      "RequiredLevel": 6400
+    },
+    {
+      "RequiredLevel": 6420
+    },
+    {
+      "RequiredLevel": 6440
+    },
+    {
+      "RequiredLevel": 6460
+    },
+    {
+      "RequiredLevel": 6480
+    },
+    {
+      "RequiredLevel": 6500
+    },
+    {
+      "RequiredLevel": 6520
+    },
+    {
+      "RequiredLevel": 6540
+    },
+    {
+      "RequiredLevel": 6560
+    },
+    {
+      "RequiredLevel": 6580
+    },
+    {
+      "RequiredLevel": 6600
+    },
+    {
+      "RequiredLevel": 6620
+    },
+    {
+      "RequiredLevel": 6640
+    },
+    {
+      "RequiredLevel": 6660
+    },
+    {
+      "RequiredLevel": 6680
+    },
+    {
+      "RequiredLevel": 6700
+    },
+    {
+      "RequiredLevel": 6720
+    },
+    {
+      "RequiredLevel": 6740
+    },
+    {
+      "RequiredLevel": 6760
+    },
+    {
+      "RequiredLevel": 6780
+    },
+    {
+      "RequiredLevel": 6800
+    },
+    {
+      "RequiredLevel": 6820
+    },
+    {
+      "RequiredLevel": 6840
+    },
+    {
+      "RequiredLevel": 6860
+    },
+    {
+      "RequiredLevel": 6880
+    },
+    {
+      "RequiredLevel": 6900
+    },
+    {
+      "RequiredLevel": 6920
+    },
+    {
+      "RequiredLevel": 6940
+    },
+    {
+      "RequiredLevel": 6960
+    },
+    {
+      "RequiredLevel": 6980
+    },
+    {
+      "RequiredLevel": 7000
+    },
+    {
+      "RequiredLevel": 7020
+    },
+    {
+      "RequiredLevel": 7040
+    },
+    {
+      "RequiredLevel": 7060
+    },
+    {
+      "RequiredLevel": 7080
+    },
+    {
+      "RequiredLevel": 7100
+    },
+    {
+      "RequiredLevel": 7120
+    },
+    {
+      "RequiredLevel": 7140
+    },
+    {
+      "RequiredLevel": 7160
+    },
+    {
+      "RequiredLevel": 7180
+    },
+    {
+      "RequiredLevel": 7200
+    },
+    {
+      "RequiredLevel": 7220
+    },
+    {
+      "RequiredLevel": 7240
+    },
+    {
+      "RequiredLevel": 7260
+    },
+    {
+      "RequiredLevel": 7280
+    },
+    {
+      "RequiredLevel": 7300
+    },
+    {
+      "RequiredLevel": 7320
+    },
+    {
+      "RequiredLevel": 7340
+    },
+    {
+      "RequiredLevel": 7360
+    },
+    {
+      "RequiredLevel": 7380
+    },
+    {
+      "RequiredLevel": 7400
+    },
+    {
+      "RequiredLevel": 7420
+    },
+    {
+      "RequiredLevel": 7440
+    },
+    {
+      "RequiredLevel": 7460
+    },
+    {
+      "RequiredLevel": 7480
+    },
+    {
+      "RequiredLevel": 7500
+    },
+    {
+      "RequiredLevel": 7520
+    },
+    {
+      "RequiredLevel": 7540
+    },
+    {
+      "RequiredLevel": 7560
+    },
+    {
+      "RequiredLevel": 7580
+    },
+    {
+      "RequiredLevel": 7600
+    },
+    {
+      "RequiredLevel": 7620
+    },
+    {
+      "RequiredLevel": 7640
+    },
+    {
+      "RequiredLevel": 7660
+    },
+    {
+      "RequiredLevel": 7680
+    },
+    {
+      "RequiredLevel": 7700
+    },
+    {
+      "RequiredLevel": 7720
+    },
+    {
+      "RequiredLevel": 7740
+    },
+    {
+      "RequiredLevel": 7760
+    },
+    {
+      "RequiredLevel": 7780
+    },
+    {
+      "RequiredLevel": 7800
+    },
+    {
+      "RequiredLevel": 7820
+    },
+    {
+      "RequiredLevel": 7840
+    },
+    {
+      "RequiredLevel": 7860
+    },
+    {
+      "RequiredLevel": 7880
+    },
+    {
+      "RequiredLevel": 7900
+    },
+    {
+      "RequiredLevel": 7920
+    },
+    {
+      "RequiredLevel": 7940
+    },
+    {
+      "RequiredLevel": 7960
+    },
+    {
+      "RequiredLevel": 7980
+    },
+    {
+      "RequiredLevel": 8000
+    }
+  ],
+  "NewFishBonus": [
+    {
+      "FishNumber": 1
+    },
+    {
+      "FishNumber": 2
+    },
+    {
+      "FishNumber": 3
+    },
+    {
+      "FishNumber": 4
+    },
+    {
+      "FishNumber": 5
+    },
+    {
+      "FishNumber": 6
+    },
+    {
+      "FishNumber": 7
+    },
+    {
+      "FishNumber": 8
+    },
+    {
+      "FishNumber": 9
+    },
+    {
+      "FishNumber": 10
+    },
+    {
+      "FishNumber": 11
+    },
+    {
+      "FishNumber": 12
+    },
+    {
+      "FishNumber": 13
+    },
+    {
+      "FishNumber": 14
+    },
+    {
+      "FishNumber": 15
+    },
+    {
+      "FishNumber": 16
+    },
+    {
+      "FishNumber": 17
+    },
+    {
+      "FishNumber": 18
+    },
+    {
+      "FishNumber": 19
+    },
+    {
+      "FishNumber": 20
+    },
+    {
+      "FishNumber": 21
+    },
+    {
+      "FishNumber": 22
+    },
+    {
+      "FishNumber": 23
+    },
+    {
+      "FishNumber": 24
+    },
+    {
+      "FishNumber": 25
+    },
+    {
+      "FishNumber": 26
+    },
+    {
+      "FishNumber": 27
+    },
+    {
+      "FishNumber": 28
+    },
+    {
+      "FishNumber": 29
+    },
+    {
+      "FishNumber": 30
+    },
+    {
+      "FishNumber": 31
+    },
+    {
+      "FishNumber": 32
+    },
+    {
+      "FishNumber": 33
+    },
+    {
+      "FishNumber": 34
+    },
+    {
+      "FishNumber": 35
+    },
+    {
+      "FishNumber": 36
+    },
+    {
+      "FishNumber": 37
+    },
+    {
+      "FishNumber": 38
+    },
+    {
+      "FishNumber": 39
+    },
+    {
+      "FishNumber": 40
+    },
+    {
+      "FishNumber": 41
+    },
+    {
+      "FishNumber": 42
+    },
+    {
+      "FishNumber": 43
+    },
+    {
+      "FishNumber": 44
+    },
+    {
+      "FishNumber": 45
+    },
+    {
+      "FishNumber": 46
+    },
+    {
+      "FishNumber": 47
+    },
+    {
+      "FishNumber": 48
+    },
+    {
+      "FishNumber": 49
+    },
+    {
+      "FishNumber": 50
+    },
+    {
+      "FishNumber": 51
+    },
+    {
+      "FishNumber": 52
+    },
+    {
+      "FishNumber": 53
+    },
+    {
+      "FishNumber": 54
+    },
+    {
+      "FishNumber": 55
+    },
+    {
+      "FishNumber": 56
+    },
+    {
+      "FishNumber": 57
+    },
+    {
+      "FishNumber": 58
+    },
+    {
+      "FishNumber": 59
+    },
+    {
+      "FishNumber": 60
+    },
+    {
+      "FishNumber": 61
+    },
+    {
+      "FishNumber": 62
+    },
+    {
+      "FishNumber": 63
+    },
+    {
+      "FishNumber": 64
+    },
+    {
+      "FishNumber": 65
+    },
+    {
+      "FishNumber": 66
+    },
+    {
+      "FishNumber": 67
+    },
+    {
+      "FishNumber": 68
+    },
+    {
+      "FishNumber": 69
+    },
+    {
+      "FishNumber": 70
+    },
+    {
+      "FishNumber": 71
+    },
+    {
+      "FishNumber": 72
+    },
+    {
+      "FishNumber": 73
+    },
+    {
+      "FishNumber": 74
+    },
+    {
+      "FishNumber": 75
+    },
+    {
+      "FishNumber": 76
+    },
+    {
+      "FishNumber": 77
+    },
+    {
+      "FishNumber": 78
+    },
+    {
+      "FishNumber": 79
+    },
+    {
+      "FishNumber": 80
+    },
+    {
+      "FishNumber": 81
+    },
+    {
+      "FishNumber": 82
+    },
+    {
+      "FishNumber": 83
+    },
+    {
+      "FishNumber": 84
+    },
+    {
+      "FishNumber": 85
+    },
+    {
+      "FishNumber": 86
+    },
+    {
+      "FishNumber": 87
+    },
+    {
+      "FishNumber": 88
+    },
+    {
+      "FishNumber": 89
+    },
+    {
+      "FishNumber": 90
+    },
+    {
+      "FishNumber": 91
+    },
+    {
+      "FishNumber": 92
+    },
+    {
+      "FishNumber": 93
+    },
+    {
+      "FishNumber": 94
+    },
+    {
+      "FishNumber": 95
+    },
+    {
+      "FishNumber": 96
+    },
+    {
+      "FishNumber": 97
+    },
+    {
+      "FishNumber": 98
+    },
+    {
+      "FishNumber": 99
+    },
+    {
+      "FishNumber": 100
+    }
+  ],
+  "NewUserGuide": [
+    {
+      "ID": 5,
+      "Trigger": "level_start",
+      "Condition": [
+        {
+          "panel": "LevelPanel",
+          "level_start_num": "1"
+        }
+      ],
+      "TargetPanel": "Tile",
+      "TargetPath": "",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0.3,
+      "Content":"guide5",
+      "ContentPos_X": 0,
+      "ContentPos_Y": -270
+    },
+    {
+      "ID": 6,
+      "Trigger": "fish_unlock",
+      "Condition": [
+        {
+          "panel": "HomePanel",
+          "fish_num": "1"
+        }
+      ],
+      "TargetPanel": "HomePanel",
+      "TargetPath": "Normal/HomePanel/BottomBar/ButtonGroup/FishShopButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0,
+      "Content": "",
+      "ContentPos_X": 0.0,
+      "ContentPos_Y": 0.0
+    },
+    {
+      "ID": 7,
+      "Trigger": "game_init",
+      "Condition": [
+        {
+          "panel": "HomePanel",
+          "fish_num": "1",
+          "level_start_num": "2"
+        }
+      ],
+      "TargetPanel": "HomePanel",
+      "TargetPath": "Normal/HomePanel/BottomBar/ButtonGroup/FishShopButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0,
+      "Content": "",
+      "ContentPos_X": 0.0,
+      "ContentPos_Y": 0.0
+    },
+    {
+      "ID": 8,
+      "Trigger": "panel_display",
+      "Condition": [
+        {
+          "panel": "FishShopPage",
+          "fish_num": "1"
+        }
+      ],
+      "TargetPanel": "FishTankPage",
+      "TargetPath": "Normal/HomePanel/FishShopPage/Scroll View/Viewport/Content/FishShopItem_0",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0,
+      "Content": "",
+      "ContentPos_X": 0.0,
+      "ContentPos_Y": 0.0
+    },
+    {
+      "ID": 9,
+      "Trigger": "panel_display",
+      "Condition": [
+        {
+          "panel": "BuyFishPanel",
+          "fish_num": "1"
+        }
+      ],
+      "TargetPanel": "BuyFishPanel",
+      "TargetPath": "PopUp/BuyFishPanel/Window/Content/BuyButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0,
+      "Content": "",
+      "ContentPos_X": 0.0,
+      "ContentPos_Y": 0.0
+    },
+    {
+      "ID": 10,
+      "Trigger": "panel_display",
+      "Condition": [
+        {
+          "panel": "HomePanel",
+          "fish_num": "7"
+        }
+      ],
+      "TargetPanel": "HomePanel",
+      "TargetPath": "Normal/HomePanel/BottomBar/ButtonGroup/AquariumShopButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0,
+      "Content": "",
+      "ContentPos_X": 0.0,
+      "ContentPos_Y": 0.0
+    },
+    {
+      "ID": 11,
+      "Trigger": "panel_display",
+      "Condition": [
+        {
+          "panel": "UnLockFishTankPanel",
+          "aquarium_num": "1"
+        }
+      ],
+      "TargetPanel": "UnLockFishTankPanel",
+      "TargetPath": "PopUp/UnLockFishTankPanel/Window/Content/GetBtn",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0,
+      "Content": "",
+      "ContentPos_X": 0.0,
+      "ContentPos_Y": 0.0
+    },
+    {
+      "ID": 12,
+      "Trigger": "get_tile",
+      "Condition": [
+        {
+          "panel": "LevelPanel",
+          "level_start_num": "3",
+          "tile_num": "1"
+        }
+      ],
+      "TargetPanel": "LevelPanel",
+      "TargetPath": "Normal/LevelPanel/BottomGroup/UndoButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0.3,
+      "Content":"guide12",
+      "ContentPos_X": 0,
+      "ContentPos_Y": -270
+    },
+    {
+      "ID": 13,
+      "Trigger": "get_tile",
+      "Condition": [
+        {
+          "panel": "LevelPanel",
+          "level_start_num": "6",
+          "tile_num": "2"
+        }
+      ],
+      "TargetPanel": "LevelPanel",
+      "TargetPath": "Normal/LevelPanel/BottomGroup/HintButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0.3,
+      "Content":"guide13",
+      "ContentPos_X": 0,
+      "ContentPos_Y": -270
+    },
+    {
+      "ID": 14,
+      "Trigger": "get_tile",
+      "Condition": [
+        {
+          "panel": "LevelPanel",
+          "level_start_num": "9",
+          "tile_num": "5"
+        }
+      ],
+      "TargetPanel": "LevelPanel",
+      "TargetPath": "Normal/LevelPanel/BottomGroup/ShuffleButton",
+      "HandOffset_X": 0,
+      "HandOffset_Y": 0,
+      "MaskAlpha": 0.3,
+      "Content":"guide14",
+      "ContentPos_X": 0,
+      "ContentPos_Y": -270
+    }
+  ]
+}

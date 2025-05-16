@@ -1,0 +1,97 @@
+
+THREADFIN_LOOKDOWN.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 146, 75
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: false
+  xy: 146, 28
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 248, 123
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 13
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+tongkong_da
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tongkong_xiao
+  rotate: false
+  xy: 184, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 184, 9
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 222, 33
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+yanpi_01
+  rotate: true
+  xy: 146, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+yanpi_02
+  rotate: true
+  xy: 165, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+yanpi_03
+  rotate: true
+  xy: 222, 46
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 218, 100
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+yuqi_ying
+  rotate: true
+  xy: 218, 75
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+PINEAPPLE_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 2, 13
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+cheqi
+  rotate: true
+  xy: 210, 79
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+cheqiyy
+  rotate: false
+  xy: 98, 49
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 52
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 2, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 98, 65
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 138, 100
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+weiba3
+  rotate: false
+  xy: 138, 60
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+weiqi
+  rotate: false
+  xy: 74, 30
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 210, 98
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 74, 15
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 193, 80
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: true
+  xy: 98, 30
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

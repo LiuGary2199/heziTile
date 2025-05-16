@@ -1,0 +1,111 @@
+
+PICTILIS_ANTHIAS.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuqi
+  rotate: false
+  xy: 167, 8
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+fuqiyingzi
+  rotate: false
+  xy: 206, 8
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 264, 30
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 167, 35
+  size: 97, 25
+  orig: 97, 25
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 163, 58
+  orig: 163, 58
+  offset: 0, 0
+  index: -1
+xiahouqi
+  rotate: false
+  xy: 266, 44
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+xiaqihou
+  rotate: false
+  xy: 314, 48
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+xiaqiq
+  rotate: false
+  xy: 348, 48
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 403, 42
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 167, 2
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 266, 35
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 242, 8
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+yanpis
+  rotate: false
+  xy: 444, 51
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+yanpix
+  rotate: false
+  xy: 382, 41
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanpiz
+  rotate: false
+  xy: 423, 49
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1

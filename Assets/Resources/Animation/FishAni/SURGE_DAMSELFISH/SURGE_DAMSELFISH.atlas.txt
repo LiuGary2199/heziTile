@@ -1,0 +1,97 @@
+
+SURGE_DAMSELFISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi01
+  rotate: false
+  xy: 43, 9
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+qi01yy
+  rotate: false
+  xy: 172, 43
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: true
+  xy: 425, 38
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+qi0301
+  rotate: false
+  xy: 172, 58
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+qi0302
+  rotate: false
+  xy: 317, 48
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+qi04
+  rotate: false
+  xy: 2, 2
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 39
+  size: 168, 87
+  orig: 168, 87
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 222, 45
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yandi
+  rotate: false
+  xy: 72, 10
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 197, 44
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 140, 24
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 100, 19
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 120, 20
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1

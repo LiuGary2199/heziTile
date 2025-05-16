@@ -1,0 +1,118 @@
+
+CUPID_FISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 365, 94
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 281, 86
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+gong_yinying
+  rotate: false
+  xy: 321, 95
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+h_chibang
+  rotate: false
+  xy: 2, 2
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: true
+  xy: 218, 73
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+lantongkong
+  rotate: true
+  xy: 321, 86
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+q_chibang
+  rotate: false
+  xy: 218, 79
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 52
+  size: 135, 74
+  orig: 135, 74
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 139, 71
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+toufa_yinying
+  rotate: false
+  xy: 59, 4
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 139, 52
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 281, 81
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 400, 99
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 159, 56
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 427, 110
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 137, 32
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+FEMALE_SEAHORSE.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 79, 26
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+heitongkong
+  rotate: false
+  xy: 141, 86
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+lamyanqiu
+  rotate: false
+  xy: 123, 48
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 79, 57
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 7
+  size: 75, 119
+  orig: 75, 119
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 141, 108
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 161, 113
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 2, 2
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 79, 7
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 105, 32
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 105, 43
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 141, 93
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1

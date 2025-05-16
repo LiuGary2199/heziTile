@@ -1,0 +1,90 @@
+
+LATTICED_BUTTERFLYFISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianqi
+  rotate: false
+  xy: 87, 27
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 42
+  size: 139, 84
+  orig: 139, 84
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 244, 115
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 212, 56
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 169, 51
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 110, 10
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 87, 9
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 191, 56
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 143, 45
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+yuqishang
+  rotate: false
+  xy: 143, 77
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+yuqixia
+  rotate: false
+  xy: 2, 2
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+yuqiyy
+  rotate: false
+  xy: 59, 10
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

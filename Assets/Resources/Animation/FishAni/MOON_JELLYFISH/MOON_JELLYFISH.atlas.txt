@@ -1,0 +1,300 @@
+
+MOON_JELLYFISH.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 357, 50
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 2, 2
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+st2_2
+  rotate: false
+  xy: 570, 108
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 2, 49
+  size: 117, 77
+  orig: 117, 77
+  offset: 0, 0
+  index: -1
+st3_2
+  rotate: false
+  xy: 121, 48
+  size: 116, 78
+  orig: 116, 78
+  offset: 0, 0
+  index: -1
+st_2
+  rotate: false
+  xy: 239, 48
+  size: 116, 78
+  orig: 116, 78
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 475, 65
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+t1_2
+  rotate: true
+  xy: 2, 22
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 503, 80
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+t2_2
+  rotate: true
+  xy: 503, 104
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1
+t3
+  rotate: true
+  xy: 68, 24
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+t3_2
+  rotate: true
+  xy: 119, 24
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+t4
+  rotate: true
+  xy: 121, 2
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+t4_2
+  rotate: true
+  xy: 71, 2
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+yyb
+  rotate: true
+  xy: 406, 27
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yyb_2
+  rotate: true
+  xy: 406, 27
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+zyb
+  rotate: true
+  xy: 406, 27
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+zyb_2
+  rotate: true
+  xy: 406, 27
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yyh
+  rotate: false
+  xy: 475, 53
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+zyh
+  rotate: false
+  xy: 475, 53
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+yyh2
+  rotate: false
+  xy: 302, 21
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+zyh2
+  rotate: false
+  xy: 302, 21
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+yyh2_2
+  rotate: false
+  xy: 748, 120
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+zyh2_2
+  rotate: false
+  xy: 748, 120
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+yyh_2
+  rotate: false
+  xy: 503, 68
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+zyh_2
+  rotate: false
+  xy: 503, 68
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+yyp1
+  rotate: false
+  xy: 638, 109
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+yyp1_2
+  rotate: false
+  xy: 668, 110
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+yyp2
+  rotate: false
+  xy: 724, 111
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+yyp2_2
+  rotate: true
+  xy: 381, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yyp3
+  rotate: false
+  xy: 332, 25
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+yyp3_2
+  rotate: false
+  xy: 357, 26
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yyq
+  rotate: false
+  xy: 206, 18
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+yyq_2
+  rotate: false
+  xy: 238, 16
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+zyp
+  rotate: false
+  xy: 173, 18
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+zyp1
+  rotate: false
+  xy: 302, 29
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+zyp1_2
+  rotate: false
+  xy: 696, 110
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+zyp2
+  rotate: false
+  xy: 406, 33
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+zyp2_2
+  rotate: true
+  xy: 401, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+zyp3
+  rotate: false
+  xy: 381, 27
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+zyp3_2
+  rotate: false
+  xy: 357, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+zyp_2
+  rotate: false
+  xy: 270, 16
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

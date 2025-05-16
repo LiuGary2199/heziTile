@@ -1,0 +1,1419 @@
+{
+  "Shop_class": [
+    {
+      "Shop_list": [
+        {
+          "ID": 1001,
+          "currencyValue": 36000,
+          "CostType": 2,
+          "CostValue": 150000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 0
+        },
+        {
+          "ID": 1002,
+          "currencyValue": 36000,
+          "CostType": 1,
+          "CostValue": 10,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Gold",
+          "TaskID": 1
+        },
+        {
+          "ID": 1003,
+          "currencyValue": 72000,
+          "CostType": 2,
+          "CostValue": 300000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 1
+        }
+      ],
+      "unitName" : "Diamonds",
+      "iconPath" : "RobloxShop/RobloxImage/FreeFire/robloximg_Freefire_icon",
+      "bgPath" : "RobloxShop/RobloxImage/FreeFire/robloximg_BG",
+      "logoPath" : "RobloxShop/RobloxImage/FreeFire/robloximg_LOGO_FreeFire"
+    },
+    {
+      "Shop_list": [
+        {
+          "ID": 1004,
+          "currencyValue": 36000,
+          "CostType": 2,
+          "CostValue": 150000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 0
+        },
+        {
+          "ID": 1005,
+          "currencyValue": 36000,
+          "CostType": 1,
+          "CostValue": 10,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Gold",
+          "TaskID": 1
+        },
+        {
+          "ID": 1006,
+          "currencyValue": 72000,
+          "CostType": 2,
+          "CostValue": 300000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 1
+        }
+      ],
+      "unitName" : "CP",
+      "iconPath" : "RobloxShop/RobloxImage/CallOfDuty/robloximg_CallOfDuty_icon",
+      "bgPath" : "RobloxShop/RobloxImage/CallOfDuty/robloximg_BG",
+      "logoPath" : "RobloxShop/RobloxImage/CallOfDuty/robloximg_LOGO_CallOfDuty"
+    },
+    {
+      "Shop_list": [
+        {
+          "ID": 1007,
+          "currencyValue": 10000,
+          "CostType": 2,
+          "CostValue": 150000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 0
+        },
+        {
+          "ID": 1008,
+          "currencyValue": 10000,
+          "CostType": 1,
+          "CostValue": 10,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Gold",
+          "TaskID": 1
+        },
+        {
+          "ID": 1009,
+          "currencyValue": 20000,
+          "CostType": 2,
+          "CostValue": 300000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 1
+        }
+      ],
+      "unitName" : "บาท",
+      "iconPath" : "RobloxShop/RobloxImage/CountryCash/truemoney_icon_TH/app_icon",
+      "bgPath" : "RobloxShop/RobloxImage/RedeemCash/robloximg_BG",
+      "logoPath" : "RobloxShop/RobloxImage/RedeemCash/robloximg_LOGO_Cash"
+    },
+    {
+      "Shop_list": [
+        {
+          "ID": 1010,
+          "currencyValue": 30000,
+          "CostType": 2,
+          "CostValue": 150000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 0
+        },
+        {
+          "ID": 1011,
+          "currencyValue": 30000,
+          "CostType": 1,
+          "CostValue": 10,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Gold",
+          "TaskID": 1
+        },
+        {
+          "ID": 1012,
+          "currencyValue": 60000,
+          "CostType": 2,
+          "CostValue": 300000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 1
+        }
+      ],
+      "unitName" : "Robux",
+      "iconPath" : "RobloxShop/RobloxImage/roblox/robloximg_icon",
+      "bgPath" : "RobloxShop/RobloxImage/roblox/robloximg_BG",
+      "logoPath" : "RobloxShop/RobloxImage/roblox/robloximg_LOGO"
+    },
+    {
+      "Shop_list": [
+        {
+          "ID": 1013,
+          "currencyValue": 20000,
+          "CostType": 2,
+          "CostValue": 150000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 0
+        },
+        {
+          "ID": 1014,
+          "currencyValue": 20000,
+          "CostType": 1,
+          "CostValue": 10,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Gold",
+          "TaskID": 1
+        },
+        {
+          "ID": 1015,
+          "currencyValue": 40000,
+          "CostType": 2,
+          "CostValue": 300000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 1
+        }
+      ],
+      "unitName" : "Diamonds",
+      "iconPath" : "RobloxShop/RobloxImage/MoblieLegends/robloximg_MobileLegends_icon",
+      "bgPath" : "RobloxShop/RobloxImage/MoblieLegends/robloximg_BG",
+      "logoPath" : "RobloxShop/RobloxImage/MoblieLegends/robloximg_LOGO_MobileLegends"
+    },
+    {
+      "Shop_list": [
+        {
+          "ID": 1016,
+          "currencyValue": 200000,
+          "CostType": 2,
+          "CostValue": 150000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 0
+        },
+        {
+          "ID": 1017,
+          "currencyValue": 200000,
+          "CostType": 1,
+          "CostValue": 10,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Gold",
+          "TaskID": 1
+        },
+        {
+          "ID": 1018,
+          "currencyValue": 400000,
+          "CostType": 2,
+          "CostValue": 300000,
+          "iconPath": "RobloxShop/RobloxImage/Roblox_Diamond",
+          "TaskID": 1
+        }
+      ],
+      "unitName" : "Coins",
+      "iconPath" : "RobloxShop/RobloxImage/RoyalMatch/robloximg_RoyalMatch_icon",
+      "bgPath" : "RobloxShop/RobloxImage/RoyalMatch/robloximg_BG",
+      "logoPath" : "RobloxShop/RobloxImage/RoyalMatch/robloximg_LOGO_RoyalMatch"
+    }
+  ],
+  "Characters_list": [
+    {
+      "ID": 2001,
+      "Name": "Korblox Lord of Death",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_9",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "20",
+        "15",
+        "5",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2002,
+      "Name": "Ten Million Robux Man",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_6",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "20",
+        "15",
+        "5",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2003,
+      "Name": "Golden Suit of Bling Squared",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_53",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "20",
+        "15",
+        "5",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2004,
+      "Name": "Knights of Redcliff: General",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_25",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "100",
+        "50",
+        "25",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2005,
+      "Name": "Sparkle Time Bundle",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_22",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "800",
+        "200",
+        "100",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2006,
+      "Name": "SinisterBot 5001",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_14",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2007,
+      "Name": "Alar Knight of Splintered Skies",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_32",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2008,
+      "Name": "Bounty Hunter",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_5",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2009,
+      "Name": "Dark Avenger",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_41",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2010,
+      "Name": "The Overseer",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_3",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2011,
+      "Name": "The Doombringer",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_13",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2012,
+      "Name": "BattleBot 5000",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_36",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2013,
+      "Name": "Thane of the Fen",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_34",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2014,
+      "Name": "Darkest Assassin",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_12",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2015,
+      "Name": "Sun Slayer",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_54",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "3",
+        "3",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2016,
+      "Name": "Mr. Skeleton",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_28",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2017,
+      "Name": "Gingerbread Man",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_19",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2018,
+      "Name": "Rogue Space Assassin",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_10",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2019,
+      "Name": "Skylas",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_27",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 2020,
+      "Name": "Frost Guard General",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_8",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    }
+  ],
+  "Props_list": [
+    {
+      "ID": 3001,
+      "Name": "From the Vault: Dozens of Dinosaurs",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_48",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "70",
+        "30",
+        "5",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3002,
+      "Name": "From the Vault: Alpaca Plushie",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_18",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "100",
+        "50",
+        "25",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3003,
+      "Name": "Sword of the Epicredness",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_56",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "800",
+        "400",
+        "100",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3004,
+      "Name": "Donut Delivery Moped",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_30",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3005,
+      "Name": "Super Slash Cat Claws",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_33",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3006,
+      "Name": "Marshmallow Shooter",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_46",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3007,
+      "Name": "Body Swap Potion",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_23",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3008,
+      "Name": "Ultimate Drive Speedster",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_40",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3009,
+      "Name": "Korblox Mage Staff",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_26",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3010,
+      "Name": "Historic 'Timmy' Gun",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_51",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3011,
+      "Name": "Ice Dragon Slayer",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_29",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3012,
+      "Name": "Luger Pistol",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_35",
+      "Subcategory": "Costumes",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3013,
+      "Name": "ButterflyHat",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_59",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "70",
+        "30",
+        "5",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3014,
+      "Name": "Sparkling Angel Wings",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_39",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "100",
+        "50",
+        "25",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3015,
+      "Name": "Surgeon's Mask",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_37",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "800",
+        "400",
+        "100",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3016,
+      "Name": "PsychoMask",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_20",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3017,
+      "Name": "VoidHead",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_58",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3018,
+      "Name": "LcedOutChain",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_47",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3019,
+      "Name": "Sly Dog",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_15",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3020,
+      "Name": "Spring Fairy",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_49",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3021,
+      "Name": "PoliceVest",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_16",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3022,
+      "Name": "RedBatWings",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_38",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3023,
+      "Name": "DuffelBag",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_2",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3024,
+      "Name": "BlackWalletChain",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_24",
+      "Subcategory": "Acesories",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3025,
+      "Name": "Extreme Headphones",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_55",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "70",
+        "30",
+        "5",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3026,
+      "Name": "RedDiscounted",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_52",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "100",
+        "50",
+        "25",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3027,
+      "Name": "SpookyPumpHead",
+      "Description": "none",
+      "Level": "S",
+      "Img": "RobloxShop/RobloxImage/robloximg_17",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 300,
+      "Weight": [
+        "800",
+        "400",
+        "100",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3028,
+      "Name": "PlinkVortex",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_50",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3029,
+      "Name": "DogBag",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_11",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3030,
+      "Name": "BunnyScrunchie",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_4",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3031,
+      "Name": "VintageGlasses",
+      "Description": "none",
+      "Level": "A",
+      "Img": "RobloxShop/RobloxImage/robloximg_44",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 200,
+      "Weight": [
+        "10",
+        "5",
+        "2",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3032,
+      "Name": "CuteAesthetic",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_57",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3033,
+      "Name": "BatmanCrop",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_31",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3034,
+      "Name": "MichaelJordan",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_21",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3035,
+      "Name": "PlinkSunnies",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_42",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    },
+    {
+      "ID": 3036,
+      "Name": "InkHead",
+      "Description": "none",
+      "Level": "B",
+      "Img": "RobloxShop/RobloxImage/robloximg_7",
+      "Subcategory": "Equipment",
+      "CostType": 3,
+      "CostValue": 100,
+      "Weight": [
+        "2",
+        "2",
+        "1",
+        "1",
+        "1",
+        "0"
+      ],
+      "Msg": "none"
+    }
+  ],
+  "ChipWeight_group": [
+    40,
+    60,
+    75,
+    85,
+    90,
+    100
+  ],
+  "ChipGetValue_group": [
+    [
+      1,
+      1,
+      2,
+      2,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      2,
+      3,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      2,
+      4,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      2,
+      2,
+      2,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      2,
+      3,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      3,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      4,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      7
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10
+    ]
+  ],
+  "ChipGetAds_CD": "300",
+  "ChipWeight_CA": [
+    10,
+    1
+  ],
+  "RookiePackage": [
+    2001,
+    2002,
+    2003,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
+  "Task": [
+    {
+      "Type": 1001,
+      "Value": 25,
+      "PicURI": "RobloxShop/RobloxImage/task_1",
+      "Description": "Get 25 more fishes"
+    },
+    {
+      "Type": 1002,
+      "Value": 100,
+      "PicURI": "RobloxShop/RobloxImage/task_2",
+      "Description": "Watch rewarded video 100 times"
+    }
+  ],
+  "RookiePackageCount": 10,
+  "RookiePackageMulti": 100,
+  "isStartCashShop" : 1
+}

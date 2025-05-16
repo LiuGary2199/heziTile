@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94df42ee1e6e1cf4ba2f82c9bed02197, type: 3}
+  m_Name: LONGNOSE_BUTTERFLY_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: f95177aaebf7627409a5be78d6d14786, type: 3}
+  materials:
+  - {fileID: 2100000, guid: d886913057a430d46a78497d7a0ccd28, type: 2}

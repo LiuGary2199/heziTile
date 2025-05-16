@@ -1,0 +1,97 @@
+
+ROSE_FISH.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 122, 54
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+heisetongkong
+  rotate: false
+  xy: 502, 239
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 24
+  size: 118, 89
+  orig: 118, 89
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 309, 159
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 115
+  size: 305, 136
+  orig: 305, 136
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 399, 206
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 399, 172
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 187, 57
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 187, 64
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 2
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 468, 222
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 309, 123
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+ziseyanqiu
+  rotate: false
+  xy: 122, 33
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1

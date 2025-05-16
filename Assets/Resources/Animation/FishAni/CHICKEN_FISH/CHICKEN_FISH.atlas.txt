@@ -1,0 +1,104 @@
+
+CHICKEN_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dk
+  rotate: true
+  xy: 2, 2
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+dkyy
+  rotate: true
+  xy: 88, 73
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+jg
+  rotate: true
+  xy: 88, 50
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 191, 97
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+q2
+  rotate: false
+  xy: 137, 54
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 56
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+wb
+  rotate: false
+  xy: 162, 82
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 212, 92
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yh1
+  rotate: false
+  xy: 157, 66
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: true
+  xy: 162, 73
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+yp1
+  rotate: false
+  xy: 191, 81
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+yp2
+  rotate: false
+  xy: 116, 53
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yq
+  rotate: true
+  xy: 222, 99
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 86, 33
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1

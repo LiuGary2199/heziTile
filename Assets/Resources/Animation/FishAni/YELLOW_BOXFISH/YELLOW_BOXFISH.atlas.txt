@@ -1,0 +1,111 @@
+
+YELLOW_BOXFISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houyan01
+  rotate: false
+  xy: 189, 95
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+houyan02
+  rotate: false
+  xy: 210, 108
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: false
+  xy: 2, 27
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: false
+  xy: 41, 28
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qi03
+  rotate: false
+  xy: 2, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 59
+  size: 154, 67
+  orig: 154, 67
+  offset: 0, 0
+  index: -1
+yan01
+  rotate: true
+  xy: 251, 121
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+yan02
+  rotate: true
+  xy: 158, 59
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+yan03
+  rotate: false
+  xy: 28, 13
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 189, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 158, 67
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 230, 112
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 92, 42
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+yanpi04
+  rotate: false
+  xy: 71, 38
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanying
+  rotate: false
+  xy: 158, 95
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1

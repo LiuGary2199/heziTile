@@ -1,0 +1,153 @@
+
+PUPPET_FISH.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi1
+  rotate: false
+  xy: 357, 11
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ceqi2
+  rotate: true
+  xy: 461, 42
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+dingzi
+  rotate: true
+  xy: 424, 32
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shangqi1
+  rotate: false
+  xy: 285, 2
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+shangqi2
+  rotate: true
+  xy: 381, 38
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: false
+  xy: 305, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 132, 3
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: true
+  xy: 204, 6
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+shenti4
+  rotate: true
+  xy: 342, 28
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+shenti5
+  rotate: true
+  xy: 424, 43
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 4
+  size: 128, 58
+  orig: 128, 58
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 204, 30
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 272, 32
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 260, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 402, 22
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 285, 11
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 381, 27
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 328, 15
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 340, 12
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: true
+  xy: 307, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+yazi
+  rotate: false
+  xy: 494, 30
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+VAMPIREFISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 308, 80
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+heiyanzhu
+  rotate: false
+  xy: 249, 55
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+hongyanzhu
+  rotate: false
+  xy: 148, 27
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 371, 105
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 210, 82
+  size: 43, 96
+  orig: 43, 96
+  offset: 0, 0
+  index: -1
+pifeng02
+  rotate: false
+  xy: 80, 5
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 41
+  size: 206, 84
+  orig: 206, 84
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 123, 5
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 371, 81
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 280, 76
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 210, 44
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 249, 64
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 404, 109
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 123, 16
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 2, 2
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1

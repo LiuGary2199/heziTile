@@ -1,0 +1,90 @@
+
+TULIP_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 138, 77
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 159, 95
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 138, 100
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 34
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 83, 26
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 29, 14
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 138, 58
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 187, 111
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 62, 17
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 165, 106
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 29, 3
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+BUNNY_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 201, 86
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+ceqi
+  rotate: false
+  xy: 148, 57
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 20, 10
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+lingjie
+  rotate: false
+  xy: 76, 21
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 51
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: true
+  xy: 148, 51
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 178, 70
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+y_er
+  rotate: true
+  xy: 2, 14
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+yakuang
+  rotate: false
+  xy: 201, 99
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 113, 33
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 2, 2
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: true
+  xy: 94, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 76, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 226, 117
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+z_er
+  rotate: false
+  xy: 148, 86
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+GOLDEN_DOMINO.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi01
+  rotate: false
+  xy: 195, 29
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+qi01yy
+  rotate: false
+  xy: 29, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: false
+  xy: 152, 59
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+qi03
+  rotate: false
+  xy: 152, 17
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+qi04
+  rotate: false
+  xy: 2, 17
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 43
+  size: 148, 83
+  orig: 148, 83
+  offset: 0, 0
+  index: -1
+tonghkong
+  rotate: false
+  xy: 46, 32
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: true
+  xy: 215, 2
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 2, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: true
+  xy: 195, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: true
+  xy: 237, 107
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1

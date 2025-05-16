@@ -1,0 +1,195 @@
+
+YELLOW_TROPICAL.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beixin
+  rotate: false
+  xy: 2, 2
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 162, 36
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 229, 60
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+h2.1
+  rotate: false
+  xy: 170, 36
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+h2.2
+  rotate: false
+  xy: 242, 61
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 123, 74
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 215, 110
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 101, 18
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 61
+  size: 119, 65
+  orig: 119, 65
+  offset: 0, 0
+  index: -1
+syy
+  rotate: true
+  xy: 184, 62
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+wj_02
+  rotate: false
+  xy: 205, 61
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+wj_03
+  rotate: false
+  xy: 242, 74
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 65, 8
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 65, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 71, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+yp2
+  rotate: false
+  xy: 215, 73
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+yp2.2
+  rotate: false
+  xy: 101, 5
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+yp2.3
+  rotate: false
+  xy: 214, 60
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+yp2.4
+  rotate: true
+  xy: 165, 59
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+yp3
+  rotate: false
+  xy: 123, 61
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+yp4
+  rotate: false
+  xy: 101, 39
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yps
+  rotate: false
+  xy: 144, 59
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+yps2
+  rotate: false
+  xy: 162, 44
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+ypx
+  rotate: true
+  xy: 240, 88
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+yq
+  rotate: false
+  xy: 122, 41
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yq2
+  rotate: false
+  xy: 142, 39
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yyy
+  rotate: false
+  xy: 215, 85
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

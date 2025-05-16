@@ -1,0 +1,188 @@
+
+LONGNOSE_BUTTERFLY.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: true
+  xy: 134, 22
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+ceqi_2
+  rotate: true
+  xy: 177, 23
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+heiyanqiu
+  rotate: false
+  xy: 320, 56
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+heiyanqiu_2
+  rotate: false
+  xy: 315, 49
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+hongyanqiu
+  rotate: true
+  xy: 67, 11
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+hongyanqiu_2
+  rotate: false
+  xy: 248, 14
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 320, 63
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+shangqi_2
+  rotate: false
+  xy: 414, 63
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 56
+  size: 157, 70
+  orig: 157, 70
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 161, 56
+  size: 157, 70
+  orig: 157, 70
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 275, 46
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+xiaqi01_2
+  rotate: false
+  xy: 27, 11
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 2, 21
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+xiaqi02_2
+  rotate: false
+  xy: 68, 21
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 275, 26
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yanbai_2
+  rotate: false
+  xy: 295, 26
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 202, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yangaoguang_2
+  rotate: false
+  xy: 208, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 220, 26
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+yankuang_2
+  rotate: false
+  xy: 248, 26
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 202, 7
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 2, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+yanpi01_2
+  rotate: false
+  xy: 134, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 160, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yanpi02_2
+  rotate: false
+  xy: 181, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yanpi_2
+  rotate: false
+  xy: 225, 11
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1

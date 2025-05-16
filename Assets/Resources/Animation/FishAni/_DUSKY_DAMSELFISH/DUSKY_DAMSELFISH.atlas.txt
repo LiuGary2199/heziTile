@@ -1,0 +1,104 @@
+
+DUSKY_DAMSELFISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 2, 9
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 2, 4
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+houqi
+  rotate: false
+  xy: 167, 93
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 52
+  size: 163, 74
+  orig: 163, 74
+  offset: 0, 0
+  index: -1
+tongkong_da
+  rotate: false
+  xy: 131, 9
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+tongkong_xiao
+  rotate: false
+  xy: 167, 52
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 105, 23
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 228, 74
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 197, 59
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+yanpi_01
+  rotate: false
+  xy: 105, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+yanpi_02
+  rotate: true
+  xy: 151, 25
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+yanpi_03
+  rotate: false
+  xy: 224, 48
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: true
+  xy: 228, 99
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+yuqi_yz
+  rotate: false
+  xy: 167, 61
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

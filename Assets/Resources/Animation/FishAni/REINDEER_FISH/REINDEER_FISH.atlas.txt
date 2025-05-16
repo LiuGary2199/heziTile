@@ -1,0 +1,139 @@
+
+REINDEER_FISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 294, 94
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ceqi
+  rotate: true
+  xy: 137, 26
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+h_jiao
+  rotate: false
+  xy: 158, 73
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+h_yan
+  rotate: false
+  xy: 230, 47
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+heyanqiu
+  rotate: false
+  xy: 158, 64
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+lanyanqiu
+  rotate: true
+  xy: 71, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+q_jiao
+  rotate: false
+  xy: 2, 7
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 294, 109
+  size: 81, 17
+  orig: 81, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 64
+  size: 154, 62
+  orig: 154, 62
+  offset: 0, 0
+  index: -1
+weibo01
+  rotate: false
+  xy: 198, 40
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+weibo02
+  rotate: true
+  xy: 71, 13
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+weibo03
+  rotate: false
+  xy: 137, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 221, 94
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+yabbai
+  rotate: true
+  xy: 247, 47
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 2, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 166, 38
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 377, 111
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 221, 74
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 247, 69
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1

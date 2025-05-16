@@ -1,0 +1,104 @@
+
+DIVER_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 2, 29
+  size: 91, 30
+  orig: 91, 30
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: false
+  xy: 54, 11
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+humujing
+  rotate: false
+  xy: 129, 83
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 61
+  size: 125, 65
+  orig: 125, 65
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: true
+  xy: 54, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+weiqi1
+  rotate: false
+  xy: 129, 59
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+weiqi2
+  rotate: false
+  xy: 178, 99
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+xiguan
+  rotate: true
+  xy: 2, 2
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 222, 103
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: true
+  xy: 160, 40
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 142, 43
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 124, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 95, 36
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+yuqiyy
+  rotate: false
+  xy: 178, 84
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1

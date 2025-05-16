@@ -1,0 +1,139 @@
+
+EGG_HUNTER_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 203, 98
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+dan_y
+  rotate: false
+  xy: 31, 14
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dan_z
+  rotate: false
+  xy: 223, 104
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+fagu
+  rotate: false
+  xy: 2, 9
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 138, 40
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 138, 71
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 40
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+tanhuang_y
+  rotate: true
+  xy: 170, 45
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+tanhuang_y_yz
+  rotate: false
+  xy: 2, 2
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+tanhuang_z
+  rotate: true
+  xy: 244, 115
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 12, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 53, 26
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 170, 54
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 223, 84
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 138, 45
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 78, 24
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 99, 22
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 203, 77
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 53, 15
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1

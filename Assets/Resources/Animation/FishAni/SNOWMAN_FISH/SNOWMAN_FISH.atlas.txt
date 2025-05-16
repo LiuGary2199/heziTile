@@ -1,0 +1,125 @@
+
+SNOWMAN_FISH.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 42, 13
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+ceqi
+  rotate: false
+  xy: 415, 41
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+heiyanzhu
+  rotate: false
+  xy: 456, 105
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+lanyanzhu
+  rotate: false
+  xy: 284, 102
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 41
+  size: 205, 81
+  orig: 205, 81
+  offset: 0, 0
+  index: -1
+maozi_qiu
+  rotate: true
+  xy: 2, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 124
+  size: 298, 130
+  orig: 298, 130
+  offset: 0, 0
+  index: -1
+weibo01
+  rotate: false
+  xy: 209, 54
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+weibo02
+  rotate: true
+  xy: 284, 14
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+weibo03
+  rotate: true
+  xy: 456, 182
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+weibo_yinying
+  rotate: false
+  xy: 302, 102
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 140, 6
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: true
+  xy: 42, 2
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 456, 118
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 415, 17
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 99, 10
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 209, 14
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1

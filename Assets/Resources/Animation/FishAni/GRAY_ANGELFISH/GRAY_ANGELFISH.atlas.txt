@@ -1,0 +1,97 @@
+
+GRAY_ANGELFISH.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 23, 17
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 148, 43
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: false
+  xy: 2, 17
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fuqiyy
+  rotate: false
+  xy: 354, 82
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 169, 71
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: false
+  xy: 148, 76
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: false
+  xy: 250, 80
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 43
+  size: 144, 83
+  orig: 144, 83
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 23, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yandi
+  rotate: false
+  xy: 148, 53
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 2, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 22, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 413, 109
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

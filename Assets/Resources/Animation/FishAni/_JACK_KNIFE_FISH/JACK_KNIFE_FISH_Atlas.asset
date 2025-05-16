@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94df42ee1e6e1cf4ba2f82c9bed02197, type: 3}
+  m_Name: JACK_KNIFE_FISH_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: fc515792778db9a4f9c85f3041ef0395, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 0cb36cbc39b06b7498ada636e65891c2, type: 2}

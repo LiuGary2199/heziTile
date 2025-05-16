@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94df42ee1e6e1cf4ba2f82c9bed02197, type: 3}
+  m_Name: ANGEL_SLIME_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 986dc0128f5878844830a78e8ee54724, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 0521fc01c4884de48a093fb2923687ce, type: 2}

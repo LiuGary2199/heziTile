@@ -1,0 +1,97 @@
+
+GOLDEN_TREVALLY.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 163, 101
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+heiyanzhu
+  rotate: false
+  xy: 183, 92
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+hongyanqiu
+  rotate: false
+  xy: 163, 68
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shangqi
+  rotate: false
+  xy: 2, 31
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 65
+  size: 159, 61
+  orig: 159, 61
+  offset: 0, 0
+  index: -1
+xiaqi01
+  rotate: false
+  xy: 86, 50
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+xiaqi02
+  rotate: false
+  xy: 2, 2
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 223, 109
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 57, 27
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 62, 32
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 163, 79
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 199, 110
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: true
+  xy: 86, 31
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1

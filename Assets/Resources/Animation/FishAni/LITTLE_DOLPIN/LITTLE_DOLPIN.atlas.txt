@@ -1,0 +1,97 @@
+
+LITTLE_DOLPIN.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q3
+  rotate: false
+  xy: 88, 12
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 329, 90
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 135, 26
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 51
+  size: 240, 75
+  orig: 240, 75
+  offset: 0, 0
+  index: -1
+yb
+  rotate: false
+  xy: 244, 52
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+yh1
+  rotate: true
+  xy: 88, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: false
+  xy: 135, 17
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+yp1
+  rotate: false
+  xy: 375, 105
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yp2
+  rotate: false
+  xy: 281, 67
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+yp3
+  rotate: false
+  xy: 160, 32
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+yq
+  rotate: true
+  xy: 244, 57
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+yyq
+  rotate: true
+  xy: 244, 87
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+yyq2
+  rotate: true
+  xy: 2, 3
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1

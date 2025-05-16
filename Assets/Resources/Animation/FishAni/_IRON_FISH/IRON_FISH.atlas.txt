@@ -1,0 +1,125 @@
+
+IRON_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: true
+  xy: 82, 2
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+beiqi1
+  rotate: false
+  xy: 114, 55
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 163, 91
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 54
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+tongkong1
+  rotate: true
+  xy: 249, 123
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+tongkong2
+  rotate: false
+  xy: 223, 83
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 3
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+xiagj
+  rotate: false
+  xy: 223, 108
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 114, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+xiati
+  rotate: true
+  xy: 205, 71
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 162, 64
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 105, 21
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+yanpi11
+  rotate: false
+  xy: 229, 99
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 162, 56
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+yanpi22
+  rotate: true
+  xy: 177, 58
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 105, 32
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+yanpi33
+  rotate: false
+  xy: 223, 93
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1

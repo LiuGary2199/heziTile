@@ -1,0 +1,279 @@
+
+CLOWNFISH.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 491, 70
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+q_2
+  rotate: false
+  xy: 407, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+q_3
+  rotate: false
+  xy: 746, 73
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 236, 2
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+qs2_2
+  rotate: true
+  xy: 440, 2
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+qs2_3
+  rotate: false
+  xy: 806, 57
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+qs_2
+  rotate: false
+  xy: 799, 36
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+qs_3
+  rotate: false
+  xy: 236, 28
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+qx2_2
+  rotate: true
+  xy: 1001, 47
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+qx2_3
+  rotate: false
+  xy: 880, 87
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+qx_2
+  rotate: true
+  xy: 860, 53
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+qx_3
+  rotate: false
+  xy: 806, 93
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+st_2
+  rotate: false
+  xy: 367, 69
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+st_3
+  rotate: false
+  xy: 2, 17
+  size: 232, 109
+  orig: 232, 109
+  offset: 0, 0
+  index: -1
+st_4
+  rotate: false
+  xy: 236, 65
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+tps_2
+  rotate: false
+  xy: 944, 48
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+weijin01
+  rotate: true
+  xy: 590, 75
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+weijin02
+  rotate: true
+  xy: 847, 36
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+weijin03
+  rotate: false
+  xy: 2, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+weijin04
+  rotate: true
+  xy: 25, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+weijin_yz
+  rotate: true
+  xy: 671, 63
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+yb_3
+  rotate: true
+  xy: 799, 67
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+yh1_3
+  rotate: true
+  xy: 847, 47
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+yh2_3
+  rotate: false
+  xy: 836, 16
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+yp1_2
+  rotate: true
+  xy: 919, 48
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+yp1_3
+  rotate: false
+  xy: 292, 2
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+yp2_2
+  rotate: false
+  xy: 368, 2
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+yp2_3
+  rotate: false
+  xy: 460, 7
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+yp3_2
+  rotate: false
+  xy: 880, 48
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+yp3_3
+  rotate: false
+  xy: 367, 30
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+yps_3
+  rotate: false
+  xy: 442, 36
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+ypx_2
+  rotate: false
+  xy: 799, 15
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+ypx_3
+  rotate: false
+  xy: 331, 7
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+yq_2
+  rotate: false
+  xy: 325, 28
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+yq_3
+  rotate: false
+  xy: 405, 32
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+yyy_2
+  rotate: true
+  xy: 746, 30
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+yyy_3
+  rotate: true
+  xy: 945, 79
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+zui_2
+  rotate: true
+  xy: 984, 54
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+zui_3
+  rotate: true
+  xy: 1001, 83
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1

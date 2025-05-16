@@ -1,0 +1,97 @@
+
+RED_MINOR_TETRA.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi1
+  rotate: false
+  xy: 167, 41
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+beiqi2
+  rotate: false
+  xy: 2, 5
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: true
+  xy: 201, 63
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+qianqi1
+  rotate: false
+  xy: 75, 22
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+qianqi2
+  rotate: true
+  xy: 102, 27
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 51
+  size: 142, 73
+  orig: 142, 73
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 186, 42
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 146, 53
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 73, 3
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 47, 22
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: false
+  xy: 47, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 132, 31
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 147, 34
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1

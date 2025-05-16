@@ -1,0 +1,244 @@
+
+BLONDE_NASO_TANG.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtongkong
+  rotate: true
+  xy: 439, 154
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+houtongkong_2
+  rotate: true
+  xy: 147, 4
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+houyan01
+  rotate: true
+  xy: 493, 72
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+houyan02
+  rotate: true
+  xy: 369, 15
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+houyan03
+  rotate: false
+  xy: 458, 67
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+houyan04
+  rotate: true
+  xy: 341, 50
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+houyanqiu
+  rotate: false
+  xy: 329, 9
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 329, 9
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: true
+  xy: 439, 94
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+qi02
+  rotate: false
+  xy: 193, 104
+  size: 159, 74
+  orig: 159, 74
+  offset: 0, 0
+  index: -1
+qi03
+  rotate: false
+  xy: 2, 142
+  size: 189, 112
+  orig: 189, 112
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 66
+  size: 175, 74
+  orig: 175, 74
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 193, 180
+  size: 175, 74
+  orig: 175, 74
+  offset: 0, 0
+  index: -1
+tf01
+  rotate: false
+  xy: 2, 2
+  size: 129, 62
+  orig: 129, 62
+  offset: 0, 0
+  index: -1
+tf01_yz
+  rotate: true
+  xy: 463, 154
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+ts01
+  rotate: true
+  xy: 242, 2
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+ts02
+  rotate: true
+  xy: 179, 122
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+ts03
+  rotate: true
+  xy: 458, 50
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+wq
+  rotate: true
+  xy: 179, 58
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 133, 16
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: true
+  xy: 425, 49
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: false
+  xy: 411, 16
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+yanpi04
+  rotate: true
+  xy: 383, 49
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+yantong01
+  rotate: false
+  xy: 482, 45
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+yantong01_2
+  rotate: false
+  xy: 453, 27
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+yantong02
+  rotate: false
+  xy: 354, 166
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yantong02_2
+  rotate: false
+  xy: 133, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yantong03
+  rotate: false
+  xy: 329, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+yanying
+  rotate: false
+  xy: 278, 5
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+yf_01
+  rotate: true
+  xy: 341, 90
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+yf_02
+  rotate: true
+  xy: 175, 14
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+yf_02_yz
+  rotate: true
+  xy: 270, 52
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+yf_03
+  rotate: false
+  xy: 354, 90
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+yf_03_yz
+  rotate: true
+  xy: 370, 166
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1

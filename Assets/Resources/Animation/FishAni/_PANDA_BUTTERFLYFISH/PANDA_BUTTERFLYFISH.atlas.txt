@@ -1,0 +1,370 @@
+
+PANDA_BUTTERFLYFISH.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2houyan00
+  rotate: false
+  xy: 306, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+2houyan01
+  rotate: true
+  xy: 343, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+2houyan02
+  rotate: true
+  xy: 406, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+2houyan03
+  rotate: false
+  xy: 856, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+2houyanqiu
+  rotate: false
+  xy: 942, 108
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+2qi01
+  rotate: false
+  xy: 101, 6
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+2qi02
+  rotate: false
+  xy: 2, 23
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+2qi03
+  rotate: false
+  xy: 422, 32
+  size: 108, 94
+  orig: 108, 94
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: false
+  xy: 2, 40
+  size: 138, 86
+  orig: 138, 86
+  offset: 0, 0
+  index: -1
+2tongkong01
+  rotate: true
+  xy: 129, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+2tongkong02
+  rotate: true
+  xy: 780, 42
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+tongkong02
+  rotate: true
+  xy: 780, 42
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+2tongkong03
+  rotate: false
+  xy: 766, 34
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+tongkong03
+  rotate: false
+  xy: 766, 34
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+2yanpi00
+  rotate: false
+  xy: 780, 50
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+2yanpi01
+  rotate: false
+  xy: 877, 109
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+2yanpi02
+  rotate: false
+  xy: 343, 20
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+2yanpi03
+  rotate: true
+  xy: 245, 16
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+2yanqiu
+  rotate: false
+  xy: 295, 17
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+houyan00
+  rotate: true
+  xy: 323, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+houyan00_2
+  rotate: false
+  xy: 981, 113
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+houyan01
+  rotate: true
+  xy: 364, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+houyan01_2
+  rotate: true
+  xy: 385, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+houyan02
+  rotate: false
+  xy: 270, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+houyan02_2
+  rotate: false
+  xy: 288, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+houyan03
+  rotate: true
+  xy: 900, 108
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+houyan03_2
+  rotate: true
+  xy: 834, 107
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+houyanqiu
+  rotate: false
+  xy: 962, 109
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+houyanqiu_2
+  rotate: true
+  xy: 921, 108
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+q02
+  rotate: false
+  xy: 752, 111
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+q02_2
+  rotate: false
+  xy: 2, 6
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+qi01
+  rotate: false
+  xy: 752, 42
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+qi01_2
+  rotate: false
+  xy: 752, 76
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+qi03
+  rotate: false
+  xy: 532, 32
+  size: 108, 94
+  orig: 108, 94
+  offset: 0, 0
+  index: -1
+qi03_2
+  rotate: false
+  xy: 642, 32
+  size: 108, 94
+  orig: 108, 94
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 142, 40
+  size: 138, 86
+  orig: 138, 86
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: false
+  xy: 282, 40
+  size: 138, 86
+  orig: 138, 86
+  offset: 0, 0
+  index: -1
+tongkong01
+  rotate: true
+  xy: 143, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+tongkong01_2
+  rotate: true
+  xy: 752, 32
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+tongkong02_2
+  rotate: false
+  xy: 998, 119
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+tongkong03_2
+  rotate: false
+  xy: 417, 34
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+yanpi00
+  rotate: true
+  xy: 159, 16
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+yanpi00_2
+  rotate: true
+  xy: 189, 16
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 393, 20
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+yanpi01_2
+  rotate: false
+  xy: 810, 107
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 368, 20
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+yanpi02_2
+  rotate: false
+  xy: 318, 19
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+yanpi03
+  rotate: true
+  xy: 270, 17
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+yanpi03_2
+  rotate: true
+  xy: 219, 16
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: true
+  xy: 780, 80
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+yanqiu_2
+  rotate: false
+  xy: 129, 13
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 60, 6
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1

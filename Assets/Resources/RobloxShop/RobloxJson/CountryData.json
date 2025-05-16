@@ -1,0 +1,29 @@
+{
+  "Country_Info": [
+    {
+      "GetValue" : [10000, 10000, 20000],
+      "countryName" : "TH",
+      "currencyName" : "บาท",
+      "iconPath" : "RobloxShop/RobloxImage/CountryCash/truemoney_icon_TH/app_icon"
+    },
+    {
+      "GetValue" : [8000000, 8000000, 16000000],
+      "countryName" : "VN",
+      "currencyName" : "Đồng",
+      "iconPath" : "RobloxShop/RobloxImage/CountryCash/momo_icon_VN/logo_momo"
+    },
+    {
+      "GetValue" : [1500, 1500, 3000],
+      "countryName" : "MY",
+      "currencyName" : "Ringgit",
+      "iconPath" : "RobloxShop/RobloxImage/CountryCash/BoostTNG_icon_MY/BoostTNG_icon"
+    },
+    {
+      "GetValue" : [5000000, 5000000, 10000000],
+      "countryName" : "ID",
+      "currencyName" : "Rupiah",
+      "iconPath" : "RobloxShop/RobloxImage/CountryCash/OvoDana_icon_ID/OvoDana_icon"
+    }
+  ]
+  
+}

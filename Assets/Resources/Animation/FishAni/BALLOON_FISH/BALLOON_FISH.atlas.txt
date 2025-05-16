@@ -1,0 +1,118 @@
+
+BALLOON_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ceqi
+  rotate: false
+  xy: 195, 73
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+heitongkong
+  rotate: false
+  xy: 226, 94
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+lanyanzhu
+  rotate: true
+  xy: 75, 20
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shangqi01
+  rotate: false
+  xy: 75, 29
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+shangqi02
+  rotate: false
+  xy: 141, 59
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: false
+  xy: 2, 20
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 49
+  size: 137, 77
+  orig: 137, 77
+  offset: 0, 0
+  index: -1
+shenti01
+  rotate: false
+  xy: 2, 49
+  size: 137, 77
+  orig: 137, 77
+  offset: 0, 0
+  index: -1
+xiaqi
+  rotate: false
+  xy: 195, 103
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 141, 84
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 172, 39
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yangaoguang
+  rotate: false
+  xy: 128, 44
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: true
+  xy: 141, 31
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 22, 4
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+yanpi01
+  rotate: false
+  xy: 2, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+yanpi02
+  rotate: false
+  xy: 234, 107
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

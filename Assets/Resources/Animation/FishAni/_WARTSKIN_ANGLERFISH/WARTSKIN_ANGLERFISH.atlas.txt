@@ -1,0 +1,104 @@
+
+WARTSKIN_ANGLERFISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 151, 48
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 220, 98
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+shagnqi
+  rotate: false
+  xy: 151, 79
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 48
+  size: 147, 78
+  orig: 147, 78
+  offset: 0, 0
+  index: -1
+tkgg
+  rotate: false
+  xy: 30, 5
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+xiahouqi
+  rotate: true
+  xy: 2, 2
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+xiaqianqi
+  rotate: false
+  xy: 30, 16
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 110, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 188, 50
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: true
+  xy: 132, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 220, 79
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 110, 25
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yuling
+  rotate: false
+  xy: 81, 19
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+yulingyy
+  rotate: false
+  xy: 213, 64
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1

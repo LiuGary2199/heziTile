@@ -1,0 +1,139 @@
+
+BEACH_GIRL_FISH.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiqi
+  rotate: false
+  xy: 2, 9
+  size: 124, 43
+  orig: 124, 43
+  offset: 0, 0
+  index: -1
+fuqi
+  rotate: true
+  xy: 208, 64
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+huaban
+  rotate: false
+  xy: 171, 55
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+huarui1
+  rotate: true
+  xy: 15, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+huarui2
+  rotate: true
+  xy: 233, 97
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+huarui3
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 54
+  size: 167, 72
+  orig: 167, 72
+  offset: 0, 0
+  index: -1
+shuidi1
+  rotate: false
+  xy: 23, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+shuidi2
+  rotate: false
+  xy: 128, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+shuidi3
+  rotate: false
+  xy: 208, 55
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 246, 96
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 222, 72
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 163, 16
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+yankuang
+  rotate: false
+  xy: 208, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: true
+  xy: 165, 30
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: false
+  xy: 181, 37
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+yanpi3
+  rotate: false
+  xy: 233, 107
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 128, 30
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+yuqiyy
+  rotate: false
+  xy: 128, 13
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
