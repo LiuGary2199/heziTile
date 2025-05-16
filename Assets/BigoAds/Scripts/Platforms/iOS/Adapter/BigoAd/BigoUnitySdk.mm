@@ -42,6 +42,14 @@ extern "C" {
         [BigoAdSdk setUserConsentWithOption:BigoConsentOptionsCCPA consent:consent];
     }
 
+    void BigoIOS_setConsentCOPPA(bool consent) {
+        [BigoAdSdk setUserConsentWithOption:BigoConsentOptionsCOPPA consent:consent];
+    }
+
+    void BigoIOS_setConsentLGPD(bool consent) {
+        [BigoAdSdk setUserConsentWithOption:BigoConsentOptionsLGPD consent:consent];
+    }
+
     void BigoIOS_addExtraHost(const char* country,  const char* host) {
         NSString *countryString = BigoIOS_transformNSStringForm(country);
         NSString *hostString = BigoIOS_transformNSStringForm(host);

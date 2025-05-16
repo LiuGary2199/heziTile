@@ -6,6 +6,7 @@ namespace BigoAds.Scripts.Common
         IBannerAd BuildBannerAdClient();
         INativeAd BuildNativeAdClient();
         IInterstitialAd BuildInterstitialAdClient();
+        IPopupAd BuildPopupAdClient();
         ISplashAd BuildSplashAdClient();
         IRewardedAd BuildRewardedAdClient();
     }

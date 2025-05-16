@@ -6,6 +6,8 @@ namespace BigoAds.Scripts.Api.Constant
     public enum ConsentOptions
     {
         GDPR,
-        CCPA
+        CCPA,
+        LGPD,
+        COPPA
     }
 }

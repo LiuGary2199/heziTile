@@ -30,6 +30,11 @@ namespace BigoAds.Scripts.Platforms.Android
             return new AndroidInterstitialAd();
         }
 
+        public IPopupAd BuildPopupAdClient()
+        {
+            return new AndroidPopupAd();
+        }
+
         public ISplashAd BuildSplashAdClient()
         {
             return new AndroidSplashAd();

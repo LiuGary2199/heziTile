@@ -37,6 +37,10 @@ namespace BigoAds.Scripts.Platforms.iOS
         {
             return new BigoUnityRewardedAd();
         }
+        public IPopupAd BuildPopupAdClient()
+        {
+            return new BigoUnitypopupAd();
+        }
     }
 }
 #endif

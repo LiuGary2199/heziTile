@@ -51,6 +51,14 @@ namespace BigoAds.Scripts.Platforms.Android
                 case ConsentOptions.CCPA:
                     obj = clazz.GetStatic<AndroidJavaObject>("CCPA");
                     break;
+                case ConsentOptions.LGPD:
+                    obj = clazz.GetStatic<AndroidJavaObject>("LGPD");
+                    break;
+                case ConsentOptions.COPPA:
+                    obj = clazz.GetStatic<AndroidJavaObject>("COPPA");
+                    break;
+                default:
+                    break;
             }
 
             InvokeNativeMethod("setUserConsent", AndroidPlatformTool.GetGameActivity(), obj, consent);

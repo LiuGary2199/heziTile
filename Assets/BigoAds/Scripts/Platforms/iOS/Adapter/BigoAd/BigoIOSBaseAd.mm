@@ -7,10 +7,11 @@
 #import "BigoUnitySplashAd.h"
 #import "BigoUnityNativeAd.h"
 #import "BigoUnityAdapterTools.h"
+#import "BigoUnityPopupAd.h"
 
 extern "C" {
 enum BigoIOSAdType {
-    native = 1, banner = 2, interstitial = 3, rewarded = 4, splash = 5
+    native = 1, banner = 2, interstitial = 3, rewarded = 4, splash = 5, popup = 6
 };
 void BigoIOS_loadAdData(int adType,
                           UnityAd unityAd,
@@ -34,6 +35,8 @@ void BigoIOS_loadAdData(int adType,
     }
     else if (adType == native) {
         BigoIOS_loadNativeAdData(unityAd, slotId, requestJson, successCallback, failCallback, showCallback, clickCallback, dismissCallback, adErrorCallback);
+    } else if (adType == popup) {
+        BigoIOS_loadPopupAdData(unityAd, slotId, requestJson, successCallback, failCallback, showCallback, clickCallback, dismissCallback, adErrorCallback);
     }
     
 }

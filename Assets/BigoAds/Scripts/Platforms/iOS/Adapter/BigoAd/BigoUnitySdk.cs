@@ -45,6 +45,10 @@ namespace BigoAds.Scripts.Platforms.iOS.Adapter.BigoAd
                 BigoIOS_setConsentGDPR(consent);
             } else if (option == ConsentOptions.CCPA) {
                 BigoIOS_setConsentCCPA(consent);
+            } else if (option == ConsentOptions.LGPD) {
+                BigoIOS_setConsentLGPD(consent);
+            } else if (option == ConsentOptions.COPPA) {
+                BigoIOS_setConsentCOPPA(consent);
             }
         }
 
@@ -70,6 +74,12 @@ namespace BigoAds.Scripts.Platforms.iOS.Adapter.BigoAd
 
         [DllImport("__Internal")]
         static extern void BigoIOS_setConsentCCPA(bool consent);
+
+        [DllImport("__Internal")]
+        static extern void BigoIOS_setConsentLGPD(bool consent);
+
+        [DllImport("__Internal")]
+        static extern void BigoIOS_setConsentCOPPA(bool consent);
 
         [DllImport("__Internal")]
         static extern void BigoIOS_addExtraHost(string country, string host);

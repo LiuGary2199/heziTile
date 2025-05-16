@@ -59,10 +59,10 @@ public class NetInfoMgr : MonoBehaviour
     int ready_count = 0;
     public bool ready = false;
     public List<string> paypal_country = new List<string>(new string[] {"US", "BR", "PH", "TH", "MY", "IN", "VN", "AR", "CO", "VE", "PE", "ZA", "CL", "BO", "MX", "EG", "MA" });
-#if UNITY_IOS
-    [DllImport("__Internal")]
-    internal extern static void getIDFA();
-#endif
+//#if UNITY_IOS
+//    [DllImport("__Internal")]
+//    internal extern static void getIDFA();
+//#endif
 
     //更新AdjustId url
     private string AdjustUrl = "";
