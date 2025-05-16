@@ -522,17 +522,17 @@ public class CConfig
     public static string RRobloxJsonRobloxData = "RobloxShop/RobloxJson/RobloxData";
     public static string RRobloxJsonrobloximgLevel = "RobloxShop/RobloxImage/robloximg_Level";
 
-    public static string RRobloxRobloxIconBtn = "RobloxShop/RobloxProfab/RobloxIconBtn";
-    public static string AUi_Bonus_Gold = "Art/Tex/UI/UI_BonusReward/Ui_Bonus_Gold";
-    public static string AUi_Bonus_Cash = "Art/Tex/UI/UI_BonusReward/Ui_Bonus_Cash";
-    public static string AUi_Bonus_Amazon = "Art/Tex/UI/UI_BonusReward/Ui_Bonus_Amazon";
+    public static string RRobloxRobloxIconBtn = "RobloxShop/RobloxProfab/ForestRailFinBoston";
+    public static string AUi_Bonus_Gold = "Art/Tex/UI/UI_BonusReward/Be_Silly_Lord";
+    public static string AUi_Bonus_Cash = "Art/Tex/UI/UI_BonusReward/Be_Silly_Cook";
+    public static string AUi_Bonus_Amazon = "Art/Tex/UI/UI_BonusReward/Be_Silly_Strait";
 
     public static string Fish = "Fish/";
     public static string EffectsDailyReward7 = "Effects/UI_DailyReward7";
     public static string EffectsDailyReward = "Effects/UI_DailyReward";
     public static string EffectsDailyReward7Open = "Effects/UI_DailyReward7Open";
     public static string EffectsDailyOpen = "Effects/UI_DailyOpen";
-    public static string TankBannerFishTankSC = "TankBanner/UI_FishTankSC";
+    public static string TankBannerFishTankSC = "TankBanner/UI_SpurFoldSCLash";
     public static string EffectsFXPower = "Effects/FX_Power";
     public static string EffectsRewardBoxTopClose = "Effects/UI_RewardBoxTopClose";
     public static string EffectsMoveOffset = "Effects/Mat_MoveOffset";

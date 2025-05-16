@@ -359,11 +359,11 @@ MonoBehaviour:
     UIForm_LucencyType: 1
     UIForm_animationType: 1
   close_button: {fileID: 0}
-  AdButton: {fileID: 3384978274045940342}
-  GetButton: {fileID: 5055060271827466531}
-  RewardImage: {fileID: 4463193442279399374}
-  RewardPuzzleImage: {fileID: 1273214759705711177}
-  RewardValue: {fileID: 5290702965570181329}
+  AnUntold: {fileID: 3384978274045940342}
+  OakUntold: {fileID: 5055060271827466531}
+  GrooveNomad: {fileID: 4463193442279399374}
+  GrooveFalconNomad: {fileID: 1273214759705711177}
+  GrooveQuill: {fileID: 5290702965570181329}
 --- !u!1 &2447992321678542233
 GameObject:
   m_ObjectHideFlags: 0
@@ -779,7 +779,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -2, y: 117}
-  m_SizeDelta: {x: 145.0908, y: 128.5316}
+  m_SizeDelta: {x: 184, y: 163}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1851334782450439935
 CanvasRenderer:
@@ -809,7 +809,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7fb1d71beb771e9438c6cf71162d79a3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7af711f34efbda14aa61f9c02e1e6ffd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1051,7 +1051,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -1.9999878, y: 117}
-  m_SizeDelta: {x: 218, y: 238}
+  m_SizeDelta: {x: 184, y: 163}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2413131504337122630
 CanvasRenderer:
@@ -1081,7 +1081,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 30c5c063d5bf1fb43ab131bf54f13d15, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7af711f34efbda14aa61f9c02e1e6ffd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

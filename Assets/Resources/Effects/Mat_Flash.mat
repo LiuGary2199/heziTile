@@ -69,7 +69,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _LightOffset: 0.042732168
+    - _LightOffset: 0.35659963
     - _LightPower: 3
     - _Metallic: 0
     - _Mode: 0
